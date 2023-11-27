@@ -14,7 +14,7 @@ timezone: Europe/Bucharest
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mind Of Dan # the main title
+title: Mind Of A Man # the main title
 
 tagline: Delving into digital gardening. # it will display as the sub-title
 
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: danmunteanu # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: DanMunteanuX # change to your twitter username
 
 social:
   # Change to your full name.
@@ -130,7 +130,7 @@ kramdown:
 collections:
   tabs:
     output: true
-    sort_by: order
+    sort_by: order reversed
 
 defaults:
   - scope:
