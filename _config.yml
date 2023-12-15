@@ -14,16 +14,16 @@ timezone: Europe/Bucharest
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mind Of A Man # the main title
+title: Mind Of Dan # the main title
 
-tagline: Delving into digital gardening. # it will display as the sub-title
+tagline: Delve Into Digital Gardening. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  This is where I publish part of my curated notes from Obsidian.
+  Contains part of my private digital garden coming from Obsidian.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://gardening.realityframeworks.com"
 
 github:
   username: danmunteanu # change to your github username
@@ -109,7 +109,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 9
+paginate: 7
 
 # The base URL of your site
 baseurl: ""
