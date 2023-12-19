@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dopamine/2023-11-27-MOC_Dopamine.md",
+                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dopamine/2023-11-27-MOC_Dopamine.md",
+                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dopamine/2023-11-27-MOC_Dopamine.md",
+                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dopamine/2023-11-27-MOC_Dopamine.md"
+                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md"
               }
             }
           }
@@ -197,18 +197,29 @@
   },
   "active": "76739ddb8a427d8c",
   "lastOpenFiles": [
+    "pathofexile/2023-12-19-Stash Tab Prices.md",
+    "pathofexile/2023-11-02-Zizaran Explaining Everything PoE.md",
+    "dopamine/2023-11-27-Dopamine Introduction.md",
+    "pathofexile/2023-11-02-Path Of Exile Notes.md",
+    "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
+    "pathofexile/2023-11-02-Farm Divines Strategy.md",
+    "pathofexile/2023-11-02-Path Of Exile - Compendium.md",
+    "pathofexile/2023-11-02-Path Of Exile (After ToTA) Conclusions.md",
+    "templates/2019-08-11-customize-the-favicon.md",
+    "templates/2019-08-09-getting-started.md",
+    "templates/2019-08-08-write-a-new-post.md",
+    "templates/2019-08-08-text-and-typography.md",
+    "marketing/2023-11-08-PAID Work - Actions To Get Paid.md",
+    "marketing/2023-11-08-Cum Să Mă Vând (Paul Olteanu).md",
+    "marketing/2023-12-19-Building Online Trust Marian Rujoiu.md",
+    "dopamine/2023-11-27-MOC_Dopamine.md",
     "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
     "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
-    "dopamine/2023-11-27-MOC_Dopamine.md",
-    "dopamine/2023-11-27-Dopamine Introduction.md",
     "dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
     "dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",
     "2023-12-19-Marian Rujoiu.txt",
     "dopamine",
-    "templates/2019-08-08-text-and-typography.md",
     "templates",
-    "paid/2023-11-08-PAID Work - Actions To Get Paid.md",
-    "paid/2023-11-08-Cum Să Mă Vând (Paul Olteanu).md",
     "habits/2023-11-07-8th Habit (Self-Expression).md"
   ]
 }

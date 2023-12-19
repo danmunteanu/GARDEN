@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Path Of Exile (After ToTA) Conclusions"
-date:   2023-11-22 18:56:19 
-categories: pathofexile
+title: Path Of Exile (After ToTA) Conclusions
+date: 2023-11-22 18:56:19
+categories: PathOfExile
 ---
 Path Of Exile Conclusions (After ToTA):
 

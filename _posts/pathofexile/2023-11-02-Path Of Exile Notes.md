@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Path Of Exile - Notes"
-date:   2023-11-22 18:58:32 
-categories: pathofexile
+title: Path Of Exile - Notes
+date: 2023-11-22 18:58:32
+categories: PathOfExile
 ---
 ### Wanted
 Buying gems - Quality ALL (Tornado & Mysterion)
@@ -12,13 +12,7 @@ Defeat Sirus Boss
 Earn 50 divines
 Buy Tornado shot Quiver +2 arrows
 Buy [Stash Tabs]()
-##### Stash Tabs
-- 120 ~~150~~ - Quad Stash Tab (Premium) 12$
-- ~~120 150 - Map Stash Tab (Premium) 12$
-- 30 ~~40~~ - Essence Stash Tab 3$
-- ~~140 - Unique Collection~~
-- ~~30 40~~ - Blight Stash Tab
-- 200 - 6 Premium Stash Tabs
+
 
 ~~Defeat Maven~~
 ~~Farm Sirus Maps to get fragments to sell~~

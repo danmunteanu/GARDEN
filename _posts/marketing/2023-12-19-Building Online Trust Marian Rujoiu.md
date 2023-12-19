@@ -1,19 +1,22 @@
 ---
-title: Online Trust
-author: Dan
-date: 2023-12-19
+title: Building Online Trust (Marian Rujoiu)
+author: dan
+date: 2023-11-26 11:46 AM
+categories:
+  - Marketing
+tags: 
+layout: post
 ---
-
+## Building Online Trust
 The big issue online is trust; 
 How do you build that trust? 
 Social validation + Social proof
 
 ## Marian Rujoiu said:
-
-Oamenii cumpara de la tine daca:
--> Te stiu
--> Te plac
--> Au incredere
+People buy from you if they:
+- **Know** You
+- **Like** You
+- **Trust** You
 
 People need to know you -> make yourself seen
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Actions To Get Paid"
-date:   2023-11-22 18:56:19 
-categories: paid
+title: Actions To Get Paid
+date: 2023-11-22 18:56:19
+categories: Marketing
+location: "@CinqueCento"
 ---
 
 ## Produsul Are 
@@ -11,10 +12,11 @@ categories: paid
 - imagini
 - felul cum arată transmite ceva 
 
-link to the images of products you gathered
+*link to the images of products you gathered*
 
-@CinqueCento
-## (TRACKER) These actions do NOT get paid:
+
+
+## These actions do NOT get paid:
 - resizing images
 - downloading images
 - playing with images in Obsidian

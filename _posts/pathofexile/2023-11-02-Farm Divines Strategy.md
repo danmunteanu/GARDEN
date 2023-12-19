@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Farm Divines Strategy"
-date:   2023-11-22 18:56:19 
-categories: pathofexile
+title: Farm Divines Strategy
+date: 2023-11-22 18:56:19
+categories: PathOfExile
 ---
 ##### Strategii Divines
 - Selling Chayulla's Blessing for **2.2** divines

@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "TRACKER PoE Time Spent"
-date:   2023-11-22 18:56:19 
-categories: pathofexile
+title: TRACKER Time Spent In PoE (2023)
+date: 2023-11-22 18:56:19
+categories: PathOfExile
 ---
+## Conclusion
 Roughly 29 days of my life, if not more.
 29 x 24h = 696h
 
 Plus 2 more days from old account
 2 x 24h = 48h
 
-### Ce E Interesant?
-- Testat Builduri Noi/Diferite
-- Crafting Items
-- Campania
-- Creat Compendium
+### What Remains Interesting?
+- Testing New + Different Builds
+- Item Crafting
+- The Campaign
+- Creating This Compendium
 
 I didn't account for the hours spent **learning** about Path Of Exile
 - Zizaran Academy
@@ -23,8 +24,8 @@ I didn't account for the hours spent **learning** about Path Of Exile
 - PoeNinja
 - +50h?
 
-## Path Of Dan
-### League: TOTA
+## Path Of Dan Account
+#### League: TOTA
 TOTAL hours spent: 459h
 19 days 
 
@@ -49,7 +50,7 @@ TOTAL hours spent: 459h
 - Time: 3h 36m
 - Scrambled passives
 
-### League: Kalandra
+#### League: Kalandra
 **YyLushka** - EA Elementalist ALT
 - Time: 23h 6m
 
@@ -63,10 +64,11 @@ TOTAL hours spent: 459h
 **Sagrano**
 - Time: 6d 21h
 
-### Old Account
+## First Account
 **Surrikatta**: 22h 20m
 **Dionisse**: 22h 16m
 
+### ACTIONS (To Do)
 *would be nice to have a table where to input the days, hours and minutes; it should compute the total number of hours spent and equivalent in days*
 
 CALCS

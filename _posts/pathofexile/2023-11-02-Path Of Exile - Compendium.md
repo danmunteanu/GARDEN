@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Path Of Exile - Compendium"
-date:   2023-11-22 18:56:19 
-categories: pathofexile
+title: Path Of Exile - Compendium
+date: 2023-11-22 18:56:19
+categories: PathOfExile
 ---
 ### Path Of Exile (after completing campaign)
 - Overcap Resistances
