@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dopamine/2023-11-27-Dopamine Introduction.md",
+                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 425.5
   },
   "right": {
     "id": "0449e3900658f915",
@@ -195,16 +194,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76739ddb8a427d8c",
+  "active": "e82cf0b48c323a9b",
   "lastOpenFiles": [
-    "pathofexile/2023-12-19-Stash Tab Prices.md",
-    "pathofexile/2023-11-02-Zizaran Explaining Everything PoE.md",
-    "dopamine/2023-11-27-Dopamine Introduction.md",
     "pathofexile/2023-11-02-Path Of Exile Notes.md",
+    "pathofexile/2023-11-02-Zizaran Explains Everything PoE.md",
+    "pathofexile/2023-12-19-Currency Strategies (After 3.22 ToTA).md",
+    "pathofexile/2023-12-19-Path Of Exile Builds.md",
     "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
-    "pathofexile/2023-11-02-Farm Divines Strategy.md",
-    "pathofexile/2023-11-02-Path Of Exile - Compendium.md",
     "pathofexile/2023-11-02-Path Of Exile (After ToTA) Conclusions.md",
+    "pathofexile/2023-11-02-Path Of Exile - Compendium.md",
+    "pathofexile/crafting/Everything Crafting.md",
+    "pathofexile/2023-11-02-Farm Divines Strategy.md",
+    "pathofexile/crafting",
+    "dopamine/2023-11-27-Dopamine Introduction.md",
+    "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
+    "pathofexile/2023-12-19-Stash Tab Prices.md",
     "templates/2019-08-11-customize-the-favicon.md",
     "templates/2019-08-09-getting-started.md",
     "templates/2019-08-08-write-a-new-post.md",
@@ -213,7 +217,6 @@
     "marketing/2023-11-08-Cum Să Mă Vând (Paul Olteanu).md",
     "marketing/2023-12-19-Building Online Trust Marian Rujoiu.md",
     "dopamine/2023-11-27-MOC_Dopamine.md",
-    "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
     "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
     "dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
     "dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",

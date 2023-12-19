@@ -1,34 +1,21 @@
 ---
 layout: post
+author: dan
 title: Path Of Exile - Notes
 date: 2023-11-22 18:58:32
 categories: PathOfExile
 ---
 ### Wanted
-Buying gems - Quality ALL (Tornado & Mysterion)
-Essence Crafting Boots & Gloves (on Craft Of Exile)
-
 Defeat Sirus Boss
 Earn 50 divines
 Buy Tornado shot Quiver +2 arrows
-Buy [Stash Tabs]()
 
 
-~~Defeat Maven~~
-~~Farm Sirus Maps to get fragments to sell~~
-~~Get the last voidstone~~
-~~Defeat Elder Shaper~~
-~~Grow NovoKayn to the same level as Mysterion~~
+- [ ] Defeat Maven
+- [ ] Farm Sirus Maps to get fragments to sell
 
-### Builds
-- [Toxic Rain Pathfinder (POBB)](https://pobb.in/2XMDjXEKT8CB)
-- [Rain of Arrows Champion (POBB)](https://pobb.in/iCzwON4oCujs)
-- [Detonation Mine Saboteur](https://pobb.in/jhpuHr7dGjoV)
-- [Summon Raging Spirit Necromancer](https://pobb.in/QGF5BnPj2eLq)
 
-### Exploding Arrow Champion Build
-- https://pobb.in/-FuxgC3WT2fO
-- Get Jewel From PoB
+
 
 ### Proverbs
 - *A boy becomes a man when he has faced the animal in his heart and wet the forest floor with its blood.* (**Azmeri Proverb**)

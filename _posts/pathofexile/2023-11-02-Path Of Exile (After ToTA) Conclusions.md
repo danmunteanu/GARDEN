@@ -41,19 +41,6 @@ Strategies For The Future:
 - Harbingers
 - Expedition
 
-## Sales
-- when I started selling T16 maps it took off, chaos started coming in
-	- I used a map dropping atlas strategy
-- Selling essences was quite profitable, eventually
-- Crafting EA Bows could be something I could do
-- Gold Oils ~90c
-- Cards sell very well 3c/1, people bought volume
-
-## Currency Strategies
-- Farm logbooks
-- Tujen farming
-- Harbingers
-- Initially I had a strategy for dropping maps
 
 I should have followed a build guide faster. It was fun to figure it out on my own at the start, but after I got angrier and angrier, I should have tried a guide faster.
 
