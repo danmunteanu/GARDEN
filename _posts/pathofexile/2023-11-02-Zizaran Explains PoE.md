@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Zizaran Explaining Everything PoE
+title: Zizaran Explains Everything PoE
 date: 2023-11-22 18:56:19
-categories: PathOfExile
+categories:
+  - PathOfExile
 ---
 ## Currency
 - Pick what's most Fun for you!
 - Where does your Build perform well?
 - Use Scarabs & Sextants
+
 ## [Trials of Ascendancy](https://pathofexile.fandom.com/wiki/Trial_of_Ascendancy)
 
 ## Zizaran says:

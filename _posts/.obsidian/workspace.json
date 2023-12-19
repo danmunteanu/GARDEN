@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec6e10dc9d667f2d",
+        "id": "f724da810db11866",
         "type": "tabs",
         "children": [
           {
-            "id": "e82cf0b48c323a9b",
+            "id": "2a052216697aa9e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a25f3653212a09eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d20883676bb67ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dopamine/2023-11-27-Dopamine Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76739ddb8a427d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "168abe3bf8e9f539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
+                "file": "pathofexile/2023-11-02- Conclusions After (ToTA 3.22).md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
+                "file": "pathofexile/2023-11-02- Conclusions After (ToTA 3.22).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
+                "file": "pathofexile/2023-11-02- Conclusions After (ToTA 3.22).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md"
+                "file": "pathofexile/2023-11-02- Conclusions After (ToTA 3.22).md"
               }
             }
           }
@@ -194,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e82cf0b48c323a9b",
+  "active": "2a052216697aa9e3",
   "lastOpenFiles": [
     "pathofexile/2023-11-02-Path Of Exile Notes.md",
-    "pathofexile/2023-11-02-Zizaran Explains Everything PoE.md",
-    "pathofexile/2023-12-19-Currency Strategies (After 3.22 ToTA).md",
-    "pathofexile/2023-12-19-Path Of Exile Builds.md",
     "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
-    "pathofexile/2023-11-02-Path Of Exile (After ToTA) Conclusions.md",
+    "pathofexile/2023-11-02-Zizaran Explains PoE.md",
+    "pathofexile/2023-12-19-Beast To Feed.md",
+    "pathofexile/2023-12-19-Currency Farming Strategies Chaos + Divine (3.22).md",
+    "pathofexile/2023-11-02- Conclusions After (ToTA 3.22).md",
     "pathofexile/2023-11-02-Path Of Exile - Compendium.md",
+    "pathofexile/2023-12-19-Path Of Exile Builds.md",
     "pathofexile/crafting/Everything Crafting.md",
     "pathofexile/2023-11-02-Farm Divines Strategy.md",
     "pathofexile/crafting",

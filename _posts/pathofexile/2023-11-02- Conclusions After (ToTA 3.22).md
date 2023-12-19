@@ -35,13 +35,6 @@ What was definitely not worth it (30h)
 - RF_TheEternalFlameRising 4h
 - NovoKayn 21h
 
-Strategies For The Future:
-## Atlas
-- Essences
-- Harbingers
-- Expedition
-
-
 I should have followed a build guide faster. It was fun to figure it out on my own at the start, but after I got angrier and angrier, I should have tried a guide faster.
 
 Before September (previous league during summer), I played for 12d16h30m
