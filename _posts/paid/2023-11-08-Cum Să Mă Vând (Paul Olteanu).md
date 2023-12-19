@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Cum Sa Ma Vand (Paul Olteanu)"
-date:   2023-11-22 18:56:19 
-categories: paid
+title: Cum Sa Ma Vand (Paul Olteanu)
+date: 2023-11-22 18:56:19
+categories:
+  - Marketing
 ---
 #### #Marketing 
 #### Ideea Principală

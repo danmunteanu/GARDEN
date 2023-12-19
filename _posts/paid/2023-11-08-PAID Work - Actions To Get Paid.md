@@ -11,6 +11,8 @@ categories: paid
 - imagini
 - felul cum arată transmite ceva 
 
+link to the images of products you gathered
+
 @CinqueCento
 ## (TRACKER) These actions do NOT get paid:
 - resizing images

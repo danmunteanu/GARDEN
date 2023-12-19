@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "ec2b840dbe49fa53",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec6e10dc9d667f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82cf0b48c323a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dopamine/2023-11-27-Dopamine Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a25f3653212a09eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d20883676bb67ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dopamine/2023-11-27-Dopamine Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76739ddb8a427d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dopamine/2023-11-27-MOC_Dopamine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "168abe3bf8e9f539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f49bdcdbde3aeca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea068a33df9c8edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7679c18f581048c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e68316ad80b6d558",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88acbe7accd5d1a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "0449e3900658f915",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4d13451852fc494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06dab36ee35992da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dopamine/2023-11-27-MOC_Dopamine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91a034b8065ee24e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dopamine/2023-11-27-MOC_Dopamine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2299564ec813cba8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58af89c0e001d87c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dopamine/2023-11-27-MOC_Dopamine.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "76739ddb8a427d8c",
+  "lastOpenFiles": [
+    "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
+    "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
+    "dopamine/2023-11-27-MOC_Dopamine.md",
+    "dopamine/2023-11-27-Dopamine Introduction.md",
+    "dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
+    "dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",
+    "2023-12-19-Marian Rujoiu.txt",
+    "dopamine",
+    "templates/2019-08-08-text-and-typography.md",
+    "templates",
+    "paid/2023-11-08-PAID Work - Actions To Get Paid.md",
+    "paid/2023-11-08-Cum Să Mă Vând (Paul Olteanu).md",
+    "habits/2023-11-07-8th Habit (Self-Expression).md"
+  ]
+}
