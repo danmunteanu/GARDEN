@@ -11,8 +11,12 @@
             "id": "104fe42a9546afcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md"
+              }
             }
           }
         ]
@@ -140,6 +148,27 @@
   },
   "active": "104fe42a9546afcf",
   "lastOpenFiles": [
+    "quotes/2023-11-29-Quotes.md",
+    "quotes/Quotes.md",
+    "quotes",
+    "gardening/2023-12-21-Taking Notes (With Obsidian).md",
+    "gardening/2023-12-21-Timeboxing.md",
+    "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+    "gardens/Timeboxing.md",
+    "gardens/Taking Notes (With Obsidian).md",
+    "gardens/Ruairi Ideas (Attention Economy).md",
+    "gardening",
+    "gardening/Timeboxing.md",
+    "gardening/Taking Notes (With Obsidian).md",
+    "gardening/Ruairi Ideas (Attention Economy).md",
+    "gardening",
+    "mentalgardens",
+    "Taking Notes (With Obsidian).md",
+    "Ruairi Ideas (Attention Economy).md",
+    "Timeboxing.md",
+    "money/2023-12-21-MONEY (Extrase Din The Journal).md",
+    "money/2023-12-18-MONEY (Extrase Din The Journal).md",
+    "money/MONEY (Extrase Din The Journal).md",
     "money/2023-12-18-Overcoming Scarcity (Pavlina).md",
     "money/Overcoming Scarcity (Pavlina).md",
     "money/2023-12-19-Un mod congruent de-a face bani.md",
@@ -149,31 +178,11 @@
     "money/Money Flows Socially.md",
     "money/Un mod congruent de-a face bani.md",
     "money/Positive Aspects Of Earning Money.md",
-    "marketing/2023-12-19-Building Online Trust Marian Rujoiu.md",
     "money",
     "New folder",
-    "marketing/2023-11-08-Actions To Get Paid (PAID Work).md",
-    "marketing/2023-11-08-Cum Să Mă Vând (Paul Olteanu).md",
-    "2023-12-19-Building.md",
-    "pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
     "pathofexile/2023-12-13-Names-PathOfExile.txt",
     "pathofexile/2023-12-13-Names_PathOfExile_Names.txt",
     "pathofexile/Names_PathOfExile_Names.txt",
-    "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
-    "pathofexile/2023-11-02-Path Of Exile-Compendium.md",
-    "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
-    "pathofexile/2023-12-19-Path Of Exile Builds.md",
-    "pathofexile/2023-11-02-Conclusions After (ToTA 3.22).md",
-    "pathofexile/crafting/Everything Crafting.md",
-    "pathofexile/crafting",
-    "pathofexile/2023-12-19-Currency Farming Strategies Chaos + Divine (3.22).md",
-    "pathofexile/2023-12-19-Beast To Feed.md",
-    "pathofexile/2023-11-02-Zizaran Explains PoE.md",
-    "pathofexile/2023-12-19-Stash Tab Prices.md",
-    "pathofexile/2023-11-02-Zizaran Explaining Everything PoE.md",
-    "dopamine/2023-11-27-Dopamine Introduction.md",
-    "2023-12-19-Marian Rujoiu.txt",
-    "dopamine",
-    "templates"
+    "pathofexile/crafting"
   ]
 }

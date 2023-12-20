@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Money Flows Socially
+title: Overcoming Scarcity (Pavlina Notes)
 date: 2023-12-18 18:56:19
 categories:
   - Money
+tags: Pavlina
 ---
 ## Notes From Overcoming Scarcity (Pavlina)
 - **Focus Attention differently**
