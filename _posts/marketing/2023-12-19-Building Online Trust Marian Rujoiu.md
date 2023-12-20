@@ -1,7 +1,6 @@
 ---
 title: Building Online Trust (Marian Rujoiu)
-author: dan
-date: 2023-11-26 11:46 AM
+date: 2023-11-25 11:46 AM
 categories:
   - Marketing
 tags: 

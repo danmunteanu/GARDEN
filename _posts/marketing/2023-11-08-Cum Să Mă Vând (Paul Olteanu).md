@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Cum Sa Ma Vand (Paul Olteanu)
-date: 2023-11-22 18:56:19
+title: Cum Să Mă Vând (Paul Olteanu)
+date: 2023-11-24 18:56:19
 categories:
   - Marketing
 ---
-#### #Marketing 
-#### Ideea Principală
+## Ideea Principală
 - Înlocuiește ideea de-a te vinde cu **dorința** de a-i face pe ceilalți **să te caute** și să **te cumpere**
 - Cine ești tu și ce ai de oferit?
 	- La ce am **Talent**?
@@ -23,28 +22,34 @@ categories:
 
 *Un scop care mă motivează mai tare decât orice altceva*
 DIRECȚIE.
-#### Ce Mă Motivează Cu Adevărat?
 
+## Ce Mă Motivează Cu Adevărat?
 
 #Fiverr *helpful to Fiverr expansion*
+
 Lumea nu o să te caute chiar dacă eşti cum am descris mai sus pentru că… 
 **lumea încă nu ştie cine eşti** şi cu **ce te ocupi**.
+
+*(te știu, te plac și au încredere)*
 
 *Degeaba ești excepțional, dacă nimeni nu știe de tine.*
 
 #### Pune-te pe Piață
 *Ajută oamenii* **să afle despre tine**, despre ceea **ce faci** și **cum faci**
 
-CUM m-aș putea pune pe piața?
+## CUM mă pun pe piața?
 - Fiverr GIG - Înregistrări VoiceOverr
 - Fiverr GiG - Mix
-- Tutoriale (3/10) pe **Canalul System**
-- Mai multe inregistrari pe Portofoliul de Voce
+- Fiverr - Editare Audio
+- Fiverr - Editare Video
+- Fiverr - Mixaje In Ableton
+- Publicat pe Reality Frameworks (YouTube)
 - Link direct din Fiverr spre Portofoliu de Voce (sau GDrive cu Inregistrari)- 
-#### Idei Noi, Strategii:
+
+## Idei Noi, Strategii:
 - mergi la evenimente sociale
 - cunoaște oameni noi
-- spune-le ce faci
+- povesteste despre proiectele tale, la ce lucrezi
 - **Pasiunea** și **Energia** din **discursul tău** te vor face **memorabil**
 - când ei sau prietenii lor o să aibă nevoie de ce faci tu, o să te caute
 - **construiește-ți o prezență Online**
@@ -54,6 +59,8 @@ CUM m-aș putea pune pe piața?
 
 #### *Pentru ce aș vrea să fiu cunoscut?*
 - Voiceoverr
+- Mixaje
+- Ca stiu sa explic ceea ce cunosc
 - Mixuri faine
 
-*Paul Olteanu* - Articol Original [AICI](https://paulolteanu.ro/2012/04/cum-sa-ma-vand-ghid-practic/)
+Sursa: [Paul Olteanu - Cum Să Mă Vând Ghid Practic](https://paulolteanu.ro/2012/04/cum-sa-ma-vand-ghid-practic/)

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a73ba64f0eee7a",
+        "id": "45ed9d165706e995",
         "type": "tabs",
         "children": [
           {
-            "id": "919ae14a9ccb5dc9",
+            "id": "104fe42a9546afcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "919ae14a9ccb5dc9",
+  "active": "104fe42a9546afcf",
   "lastOpenFiles": [
+    "money/2023-12-18-Overcoming Scarcity (Pavlina).md",
+    "money/Overcoming Scarcity (Pavlina).md",
+    "money/2023-12-19-Un mod congruent de-a face bani.md",
+    "money/2023-12-19-Positive Aspects Of Earning Money.md",
+    "money/2023-12-19-Overcoming Scarcity (Pavlina).md",
+    "money/2023-12-19-Money Flows Socially.md",
+    "money/Money Flows Socially.md",
+    "money/Un mod congruent de-a face bani.md",
+    "money/Positive Aspects Of Earning Money.md",
+    "marketing/2023-12-19-Building Online Trust Marian Rujoiu.md",
+    "money",
+    "New folder",
+    "marketing/2023-11-08-Actions To Get Paid (PAID Work).md",
+    "marketing/2023-11-08-Cum Să Mă Vând (Paul Olteanu).md",
+    "2023-12-19-Building.md",
     "pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
     "pathofexile/2023-12-13-Names-PathOfExile.txt",
     "pathofexile/2023-12-13-Names_PathOfExile_Names.txt",
@@ -165,19 +172,6 @@
     "pathofexile/2023-12-19-Stash Tab Prices.md",
     "pathofexile/2023-11-02-Zizaran Explaining Everything PoE.md",
     "dopamine/2023-11-27-Dopamine Introduction.md",
-    "pathofexile/2023-11-02-Path Of Exile Notes.md",
-    "pathofexile/2023-11-02-Farm Divines Strategy.md",
-    "pathofexile/2023-11-02-Path Of Exile (After ToTA) Conclusions.md",
-    "templates/2019-08-11-customize-the-favicon.md",
-    "templates/2019-08-09-getting-started.md",
-    "templates/2019-08-08-write-a-new-post.md",
-    "templates/2019-08-08-text-and-typography.md",
-    "marketing/2023-11-08-PAID Work - Actions To Get Paid.md",
-    "marketing/2023-11-08-Cum Să Mă Vând (Paul Olteanu).md",
-    "marketing/2023-12-19-Building Online Trust Marian Rujoiu.md",
-    "dopamine/2023-11-27-MOC_Dopamine.md",
-    "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
-    "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
     "2023-12-19-Marian Rujoiu.txt",
     "dopamine",
     "templates"
