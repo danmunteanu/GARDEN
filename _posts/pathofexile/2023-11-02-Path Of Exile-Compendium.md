@@ -4,21 +4,12 @@ title: Path Of Exile - Compendium
 date: 2023-11-22 18:56:19
 categories: PathOfExile
 ---
-### Path Of Exile (after completing campaign)
-- Overcap Resistances
-- Stun and Block
-- Chaos Res.
-- Spell Suppression
-- Shock Immunity
-- Freeze Immunity
-
-### Commands
+## Commands
 /remaining (in map)
 /hideout
 /passives
 /played
 /age
-
 
 ##### Get Spiritual Command (Notable)
 - **Anoint** *Sepia - Sepia - Golden*
@@ -41,6 +32,7 @@ categories: PathOfExile
 - Gem + Gemcutter Prism = 20% Quality Gem, Reverts to Level 1
 - Decrease Level of skill gem by 1 = Gem + Scouring
 - Decrease Level of Skill Gem to 1 = Gem + Orb of Regret
+
 
 ### Mapping
 ##### Pantheon - Capture Souls
