@@ -1,3 +1,11 @@
+---
+layout: post
+title: Everything Crafting-related (Path Of Exile)
+date: 2023-11-02 18:58:32
+categories:
+  - PathOfExile
+---
+
 ### Crafting
 ##### Short Bow (crafting)
 - put it on your item filter bc it's such a low-level item

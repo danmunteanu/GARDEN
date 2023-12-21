@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8th Habit - Expression Of Self"
+title:  "Steve Pavlina - 8th Habit (Expression Of Self)"
 date:   2023-11-22 18:58:32 
 categories: Habits
 tags: Pavlina

@@ -5,7 +5,7 @@ title: Path Of Exile - Notes
 date: 2023-11-22 18:58:32
 categories: PathOfExile
 ---
-## Wanted
+## Goals
 - [ ] Defeat Sirus
 - [ ] Defeat Maven
 - [ ] Farm Sirus Maps to get fragments to sell
@@ -17,5 +17,3 @@ categories: PathOfExile
 ## For Scarabs
 - scarabs drop most from Betrayal Mechanic
 - get the **Secret Operations** on *Atlas Tree* for scarabs
-
-
