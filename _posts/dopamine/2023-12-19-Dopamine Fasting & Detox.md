@@ -26,8 +26,6 @@ Low-dopamine from diet.
 
 **Look at everything that gives you a dopamine hit** and get it out of my life.
 
-**No more porn**.
-
 About day 3 and 4 you’ll start enjoying **meditating**, **working** on your business… 
 
 The brain will start finding Dopamine in those tasks.

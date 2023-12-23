@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
+                "file": "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
+                "file": "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
+                "file": "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md"
+                "file": "dopamine/2023-12-19-Dopamine Fasting & Detox.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "104fe42a9546afcf",
   "lastOpenFiles": [
+    "dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
+    "dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",
+    "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
     "pathofexile/2023-12-19-Divination Cards.md",
     "habits/2023-11-07-Steve Pavlina - 8th Habit (Self-Expression).md",
     "habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
@@ -176,9 +179,6 @@
     "gardens/Taking Notes (With Obsidian).md",
     "gardens/Ruairi Ideas (Attention Economy).md",
     "gardening",
-    "gardening/Timeboxing.md",
-    "gardening/Taking Notes (With Obsidian).md",
-    "gardening/Ruairi Ideas (Attention Economy).md",
     "gardening",
     "mentalgardens",
     "money",
