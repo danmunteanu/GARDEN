@@ -10,3 +10,5 @@ order: 4
 ## Disclaimer
 This is a digital garden created and maintained by Dan Munteanu.
 Use the information contained in here at your own risk.
+
+Buy Me A Coffee Here: https://www.buymeacoffee.com/DanMunteanuX
