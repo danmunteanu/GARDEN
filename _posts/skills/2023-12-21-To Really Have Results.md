@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To Truly Have Results
+title: To Really Have Results
 date: 2023-12-20 19:00:11
 categories:
   - Skills

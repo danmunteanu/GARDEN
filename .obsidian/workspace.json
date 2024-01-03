@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "ec2b840dbe49fa53",
+    "id": "40c5c524d8ae1d71",
     "type": "split",
     "children": [
       {
-        "id": "da378e9316f2a1d9",
+        "id": "df6b459fe4bc0752",
         "type": "tabs",
         "children": [
           {
-            "id": "7b900d8db10207e5",
+            "id": "01b2ac8357f6b7e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8f49bdcdbde3aeca",
+    "id": "7171ffbb37036011",
     "type": "split",
     "children": [
       {
-        "id": "ea068a33df9c8edf",
+        "id": "cee276b12c16e281",
         "type": "tabs",
         "children": [
           {
-            "id": "7679c18f581048c5",
+            "id": "546856dba3dcdcec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e68316ad80b6d558",
+            "id": "af4fca479dbad5f4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "88acbe7accd5d1a1",
+            "id": "3f3c9dc5efc374f8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 441.5
   },
   "right": {
-    "id": "0449e3900658f915",
+    "id": "ed275f52da822c82",
     "type": "split",
     "children": [
       {
-        "id": "a4d13451852fc494",
+        "id": "b85365c73e2f5322",
         "type": "tabs",
         "children": [
           {
-            "id": "06dab36ee35992da",
+            "id": "a4b56be3ca47a233",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "91a034b8065ee24e",
+            "id": "9aa497c76bbf30d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2299564ec813cba8",
+            "id": "ca66c1dee4a4d7e0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "58af89c0e001d87c",
+            "id": "e039e7385a36405e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md"
+                "file": "README.md"
               }
             }
           }
@@ -146,43 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b900d8db10207e5",
+  "active": "01b2ac8357f6b7e2",
   "lastOpenFiles": [
-    "gardening/2023-12-21-Timeboxing.md",
-    "money/2023-12-19-Money Flows Socially.md",
-    "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
-    "dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
-    "dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",
-    "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
-    "pathofexile/2023-12-19-Divination Cards.md",
-    "habits/2023-11-07-Steve Pavlina - 8th Habit (Self-Expression).md",
-    "habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
-    "pathofexile/2023-11-02-Path Of Exile Compendium.md",
-    "pathofexile/2023-11-02-Everything Crafting.md",
-    "pathofexile/2023-11-02-Path Of Exile Crafting.md",
-    "pathofexile/2023-11-02-Path Of Exile Notes.md",
-    "habits/2023-11-07-8th Habit (Self-Expression).md",
-    "habits/2023-12-21-Brian Tracy - Business That Works.md",
-    "marketing/2023-11-08-Cum Sa Ma Vand (Paul Olteanu).md",
-    "skills/2023-12-21-Ce Fac Deja.md",
-    "skills/2023-12-21-Skill Oriented Questions.md",
-    "skills/2023-12-21-To Truly Have Results.md",
-    "skills/2023-12-21-Software.md",
-    "skills/2023-12-21-Previous Roles.md",
-    "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
-    "skills/2023-12-21-Software.txt",
-    "skills",
-    "New folder",
-    "quotes/2023-11-29-Quotes.md",
-    "quotes/Quotes.md",
-    "quotes",
-    "gardening/2023-12-21-Taking Notes (With Obsidian).md",
-    "gardens/Timeboxing.md",
-    "gardening",
-    "gardening",
-    "mentalgardens",
-    "money",
-    "pathofexile/2023-12-13-Names-PathOfExile.txt",
-    "pathofexile/2023-12-13-Names_PathOfExile_Names.txt"
+    "_posts/skills/2023-12-21-Ce Fac Deja.md",
+    "_posts/skills/2023-12-21-To Really Have Results.md",
+    "_site/posts/To-Really-Have-Results/index.html",
+    "_site/posts/To-Really-Have-Results",
+    "_posts/skills/2023-12-21-Software.md",
+    "_posts/skills/2023-12-21-Skill Oriented Questions.md",
+    "_posts/skills/2023-12-21-Previous Roles.md",
+    "_posts/pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
+    "_posts/pathofexile/2023-11-02-Path Of Exile Compendium.md"
   ]
 }

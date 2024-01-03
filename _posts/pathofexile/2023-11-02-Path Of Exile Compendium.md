@@ -11,6 +11,7 @@ categories: PathOfExile
 /played
 /age
 
+[List Of Anoints]
 ##### Get Spiritual Command (Notable)
 - **Anoint** *Sepia - Sepia - Golden*
 - Gives:

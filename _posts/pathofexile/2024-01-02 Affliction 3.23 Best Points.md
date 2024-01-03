@@ -1,0 +1,4 @@
+- leveling **Apopsys** 77+ using Temple maps
+- what I like is discovering how new builds work, following the guide and figuring out the build
+- leveling **BowMeena** (Ranger)
+- 
