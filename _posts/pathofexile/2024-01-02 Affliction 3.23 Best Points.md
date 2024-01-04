@@ -1,4 +1,6 @@
 - leveling **Apopsys** 77+ using Temple maps
 - what I like is discovering how new builds work, following the guide and figuring out the build
-- leveling **BowMeena** (Ranger)
-- 
+- Ranger **BowMeena**
+	- leveling with Rain Of Arrows
+- farming with MyLuska (EA Elementalist)
+- Trading with other players

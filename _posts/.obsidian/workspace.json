@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da378e9316f2a1d9",
+        "id": "5331ddab09d5db52",
         "type": "tabs",
         "children": [
           {
-            "id": "7b900d8db10207e5",
+            "id": "fee7942e89086881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md"
+                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b900d8db10207e5",
+  "active": "fee7942e89086881",
   "lastOpenFiles": [
+    "pathofexile/2023-11-02-Conclusions After (ToTA 3.22).md",
+    "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
     "gardening/2023-12-21-Timeboxing.md",
     "money/2023-12-19-Money Flows Socially.md",
     "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
@@ -169,7 +171,6 @@
     "skills/2023-12-21-To Truly Have Results.md",
     "skills/2023-12-21-Software.md",
     "skills/2023-12-21-Previous Roles.md",
-    "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
     "skills/2023-12-21-Software.txt",
     "skills",
     "New folder",
@@ -177,7 +178,6 @@
     "quotes/Quotes.md",
     "quotes",
     "gardening/2023-12-21-Taking Notes (With Obsidian).md",
-    "gardens/Timeboxing.md",
     "gardening",
     "gardening",
     "mentalgardens",
