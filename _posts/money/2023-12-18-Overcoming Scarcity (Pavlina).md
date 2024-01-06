@@ -4,8 +4,10 @@ title: Overcoming Scarcity (Pavlina Notes)
 date: 2023-12-18 18:56:19
 categories:
   - Money
-tags: Pavlina
+tags:
+  - Pavlina
 ---
+Source: [Steve Pavlina (Day 2): Overcoming Scarcity](https://youtu.be/_HrbZqgAb00?si=QDgbmcOn5ixmE775)
 ## Notes From Overcoming Scarcity (Pavlina)
 - **Focus Attention differently**
 - instead of focusing on the neediness and the lack and trying to get something going for yourself first? Before you can contribute?
