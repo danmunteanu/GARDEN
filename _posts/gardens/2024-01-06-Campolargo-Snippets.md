@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snippets, Future Self - Campolargo
+title: Snippets, Future Self (Campolargo)
 date: 2024-01-06 18:56:19
 categories:
   - Gardens
