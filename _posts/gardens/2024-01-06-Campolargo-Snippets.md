@@ -5,8 +5,7 @@ date: 2024-01-06 18:56:19
 categories:
   - Gardens
 ---
-
-Source: https://www.juandavidcampolargo.com/blog/future-self
+Source: [Future Self](https://www.juandavidcampolargo.com/blog/future-self)
 
 progress in my projects
 

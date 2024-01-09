@@ -5,8 +5,7 @@ date: 2024-01-06 18:56:19
 categories:
   - Gardens
 ---
-
-Source: https://www.juandavidcampolargo.com/blog/steppenwolf
+Source: [Steppenwolf](https://www.juandavidcampolargo.com/blog/steppenwolf)
 
 Whoever wants music instead of noise, joy instead of pleasure, soul instead of gold, creative work instead of business, passion instead of foolery, finds no home in this trivial world of ours.
 

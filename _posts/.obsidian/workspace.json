@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
+                "file": "gardens/2024-01-06-Campolargo-Steppenwolf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
+                "file": "gardens/2024-01-06-Campolargo-Steppenwolf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
+                "file": "gardens/2024-01-06-Campolargo-Steppenwolf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pathofexile/2024-01-02 Affliction 3.23 Best Points.md"
+                "file": "gardens/2024-01-06-Campolargo-Steppenwolf.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "fee7942e89086881",
   "lastOpenFiles": [
+    "gardens/2024-01-06-Campolargo-Annual Review.md",
+    "gardens/2024-01-06-Campolargo-Snippets.md",
+    "pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
     "pathofexile/2023-11-02-Conclusions After (ToTA 3.22).md",
     "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
     "gardening/2023-12-21-Timeboxing.md",
@@ -174,10 +177,7 @@
     "skills/2023-12-21-Software.txt",
     "skills",
     "New folder",
-    "quotes/2023-11-29-Quotes.md",
-    "quotes/Quotes.md",
     "quotes",
-    "gardening/2023-12-21-Taking Notes (With Obsidian).md",
     "gardening",
     "gardening",
     "mentalgardens",
