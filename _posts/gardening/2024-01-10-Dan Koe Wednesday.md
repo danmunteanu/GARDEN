@@ -5,6 +5,7 @@ date: 2024-01-10
 categories:
   - Habits
   - Marketing
+  - DanKoe
 ---
 Source: [The One Person Business Model 2.0 (Turn Yourself Into A Business)](https://www.youtube.com/watch?v=QoBCtcWO02g)
 
