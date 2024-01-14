@@ -5,7 +5,7 @@ date: 2024-01-06 18:56:19
 categories:
   - Gardens
 ---
-Source: [Annual Review 2022](https://www.juandavidcampolargo.com/blog/annual-review-2022)
+Source: [Annual Review 2022 by Campolargo](https://www.juandavidcampolargo.com/blog/annual-review-2022)
 
 Favorite Quote: In a world of crazy people, the sane ones are “crazy.”
 
