@@ -16,14 +16,14 @@ timezone: Europe/Bucharest
 
 title: Dan's Notes # the main title
 
-tagline: Delving Into Digital Gardening. # it will display as the sub-title
+tagline: My Public Digital Garden. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Contains part of my private digital garden coming from Obsidian.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://gardening.realityframeworks.com"
+url: "https://notes.realityframeworks.com"
 
 github:
   username: danmunteanu # change to your github username
