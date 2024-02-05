@@ -3,7 +3,7 @@ layout: post
 title: Snippets, Annual Review (Campolargo)
 date: 2024-01-06 18:56:19
 categories:
-  - Gardens
+  - Gardening
 ---
 Source: [Annual Review 2022 by Campolargo](https://www.juandavidcampolargo.com/blog/annual-review-2022)
 

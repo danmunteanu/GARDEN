@@ -2,7 +2,7 @@
 title: Ruairi Ideas (Attention Economy)
 date: 2023-11-29 11:46 AM
 categories:
-  - Gardens
+  - Gardening
 tags: 
 layout: post
 ---

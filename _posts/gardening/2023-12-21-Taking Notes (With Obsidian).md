@@ -2,7 +2,7 @@
 title: Taking Notes (With Obsidian)
 author: Dan
 date: 2023-11-29 11:46 AM
-categories: [Gardens]
+categories: [Gardening]
 tags: 
 layout: post
 ---
