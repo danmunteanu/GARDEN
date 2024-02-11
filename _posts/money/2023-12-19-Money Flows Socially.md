@@ -5,7 +5,6 @@ date: 2023-12-19 18:56:19
 categories:
   - Money
 ---
-
 ## What I could Do
 -> making RealityFrameworks into a contribution place 
 Articles, in English

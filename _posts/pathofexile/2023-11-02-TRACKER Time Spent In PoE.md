@@ -5,8 +5,8 @@ date: 2023-11-22 18:56:19
 categories: PathOfExile
 ---
 ## Conclusion
-Roughly 29 days of my life, if not more.
-29 x 24h = 696h
+
+29 days x 24h = 696h
 
 Plus 2 more days from old account
 2 x 24h = 48h
@@ -16,6 +16,7 @@ Plus 2 more days from old account
 - Item Crafting
 - The Campaign
 - Creating This Compendium
+- Growing BowMeena
 
 I didn't account for the hours spent **learning** about Path Of Exile
 - Zizaran Academy

@@ -36,9 +36,7 @@ Allow yourself to experience difficult feelings
 Have difficult conversations
 
 Planning
-
 Cooking
-
 Shopping
 
 Practice

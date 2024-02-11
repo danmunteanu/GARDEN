@@ -9,4 +9,4 @@ Source: [Annual Review 2022 by Campolargo](https://www.juandavidcampolargo.com/b
 
 Favorite Quote: In a world of crazy people, the sane ones are “crazy.”
 
-Favorite book: The Dream Machine by M. Mitchell Waldrop
+Favorite book: **The Dream Machine** by *M. Mitchell Waldrop*

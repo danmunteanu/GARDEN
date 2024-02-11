@@ -6,7 +6,6 @@ categories:
   - Marketing
 location: "@CinqueCento"
 ---
-
 ## Produsul Are 
 - ambalaj
 - prezentare
@@ -14,8 +13,6 @@ location: "@CinqueCento"
 - felul cum arată transmite ceva 
 
 *link to the images of products you gathered*
-
-
 
 ## These actions do NOT get paid:
 - resizing images

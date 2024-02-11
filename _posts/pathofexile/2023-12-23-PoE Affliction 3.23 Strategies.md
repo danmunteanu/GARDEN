@@ -7,13 +7,6 @@ categories:
 tags: 
 layout: post
 ---
-- leveling Boneshatter **Apopsys** 77+ using Alva maps
-- what I like is discovering how new builds work, following the guide and figuring out the build
-- Best currency farming: Elementalist EA, farming T8-T12 max juiced maps
-- Leveling Tornado Shot Build (BowMeena)
-- Essences most profitable
-- Expedition farming was ok between T8-T10, above T12 was really hard
-
 ## League Start Preps
 - prepare regex
 - list of lab trials
@@ -25,17 +18,13 @@ layout: post
 - [ ] Maven
 - [ ] Shaper
 - [ ] Elder
-
-## Maps
-- Essence farming 
-- ~~Harbingers~~
-- Strongboxes - *careful, some explode, some freeze; on T16 they were fatal many times*
-- List of Souls (For Pantheon)
+- [ ] Sirus
 
 ## Checks After Campaign Completion
 - [ ] Overcapping Resistances 75%+
 - [ ] Stun and Block
 - [ ] Chaos Res.
+- [ ] Ignite Immunity
 - [ ] Spell Suppression 100%
 - [ ] Shock Immunity - Life Flask
 - [ ] Freeze Immunity - Life Flask
