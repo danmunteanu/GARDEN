@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Snippets, Steppenwolf (Campolargo)
+title: "[Snippets] Steppenwolf (Campolargo)"
 date: 2024-01-06 18:56:19
 categories:
   - Gardening
+tags:
+  - Campolargo
 ---
 Source: [Steppenwolf by Campolargo](https://www.juandavidcampolargo.com/blog/steppenwolf)
 
