@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45fd43b60d8991e4",
+        "id": "d38e447b673734dc",
         "type": "tabs",
         "children": [
           {
-            "id": "86bd8798a8787a42",
+            "id": "f1df074e2552097b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gardening/2024-01-10-Dan Koe Wednesday.md",
+                "file": "gardening/2024-02-18-Synthesizer Ideas by Dan Koe.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 296.5
   },
   "right": {
     "id": "0449e3900658f915",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gardening/2024-01-10-Dan Koe Wednesday.md",
+                "file": "gardening/2024-02-18-Synthesizer Ideas by Dan Koe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gardening/2024-01-10-Dan Koe Wednesday.md",
+                "file": "gardening/2024-02-18-Synthesizer Ideas by Dan Koe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gardening/2024-01-10-Dan Koe Wednesday.md"
+                "file": "gardening/2024-02-18-Synthesizer Ideas by Dan Koe.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86bd8798a8787a42",
+  "active": "f1df074e2552097b",
   "lastOpenFiles": [
     "quotes/2023-11-29-Quotes.md",
     "pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",

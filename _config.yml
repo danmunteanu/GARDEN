@@ -16,14 +16,16 @@ timezone: Europe/Bucharest
 
 title: Dan's Notes # the main title
 
-tagline: My Public Digital Garden. # it will display as the sub-title
+tagline: Your Mind's Connections # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Contains part of my private digital garden coming from Obsidian.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://notes.realityframeworks.com"
+# url: "https://notes.realityframeworks.com"
+url: https://danmunteanu.github.io/
+baseurl: /NOTES_Garden
 
 github:
   username: danmunteanu # change to your github username
@@ -112,7 +114,7 @@ pwa:
 paginate: 7
 
 # The base URL of your site
-baseurl: ""
+# baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
