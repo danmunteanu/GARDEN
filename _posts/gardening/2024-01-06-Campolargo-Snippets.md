@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Snippets] Future Self (Campolargo)"
+title: (Campolargo) Future Self (SNIPPET)
 date: 2024-01-06 18:56:19
 categories:
   - Gardening

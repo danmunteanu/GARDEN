@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Cum Să Mă Vând (Paul Olteanu)
+title: Paul Olteanu - Cum Să Mă Vând
 date: 2023-11-24 18:56:19
 categories:
   - Marketing
 ---
+Sursa: [Paul Olteanu - Cum Să Mă Vând Ghid Practic](https://paulolteanu.ro/2012/04/cum-sa-ma-vand-ghid-practic/)
 ## Ideea Principală
 - Înlocuiește ideea de-a te vinde cu **dorința** de a-i face pe ceilalți **să te caute** și să **te cumpere**
 - Cine ești tu și ce ai de oferit?
@@ -25,7 +26,7 @@ DIRECȚIE.
 
 ## Ce Mă Motivează Cu Adevărat?
 
-#Fiverr *helpful to Fiverr expansion*
+#Fiverr *Helpful to Fiverr expansion*
 
 Lumea nu o să te caute chiar dacă eşti cum am descris mai sus pentru că… 
 **lumea încă nu ştie cine eşti** şi cu **ce te ocupi**.
@@ -47,7 +48,6 @@ Lumea nu o să te caute chiar dacă eşti cum am descris mai sus pentru că…
 - Link direct din Fiverr spre Portofoliu de Voce (sau GDrive cu Inregistrari)- 
 
 ## Idei Noi, Strategii:
-- mergi la evenimente sociale
 - cunoaște oameni noi
 - povesteste despre proiectele tale, la ce lucrezi
 - **Pasiunea** și **Energia** din **discursul tău** te vor face **memorabil**
@@ -58,9 +58,6 @@ Lumea nu o să te caute chiar dacă eşti cum am descris mai sus pentru că…
 - luni sau ani
 
 #### *Pentru ce aș vrea să fiu cunoscut?*
-- Voiceoverr
-- Mixaje
-- Ca stiu sa explic ceea ce cunosc
-- Mixuri faine
+- Voce
+- Ca stiu sa explic ceea ce cunosc 
 
-Sursa: [Paul Olteanu - Cum Să Mă Vând Ghid Practic](https://paulolteanu.ro/2012/04/cum-sa-ma-vand-ghid-practic/)

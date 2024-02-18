@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Snippets] Steppenwolf (Campolargo)"
+title: (Campolargo) Steppenwolf (SNIPPET)
 date: 2024-01-06 18:56:19
 categories:
   - Gardening

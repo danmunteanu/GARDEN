@@ -1,5 +1,5 @@
 ---
-title: Building Online Trust (Marian Rujoiu)
+title: Marian Rujoiu - Building Online Trust
 date: 2023-11-25 11:46 AM
 categories:
   - Marketing
@@ -8,7 +8,9 @@ layout: post
 ---
 ## Building Online Trust
 The big issue online is trust; 
+
 How do you build that trust? 
+
 Social validation + Social proof
 
 ## Marian Rujoiu said:

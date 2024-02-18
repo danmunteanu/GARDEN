@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actions To Get Paid
+title: IDEAS To Get Paid
 date: 2023-11-22 18:56:19
 categories:
   - Marketing

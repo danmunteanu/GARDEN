@@ -20,7 +20,8 @@ Huge increase in the importance of **knowledge workers**.
 Focused on **self-expression**. 
 
 At one time that meant making games. 
-Now it means writing and speaking. 
+
+Now it means **writing** and **speaking**. 
 
 I think I’d feel very stunted with a **career** that didn’t give me a sufficient **outlet for self-expression** 
 - *I must create said outlet for **expression of Self***

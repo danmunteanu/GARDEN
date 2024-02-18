@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Snippets] Annual Review (Campolargo)"
+title: (Campolargo) Annual Review (SNIPPET)
 date: 2024-01-06 18:56:19
 categories:
   - Gardening

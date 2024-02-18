@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "habits/2023-11-07-Steve Pavlina - 8th Habit (Self-Expression).md",
+                "file": "quotes/2023-11-29-Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 458.5
   },
   "right": {
     "id": "0449e3900658f915",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "habits/2023-11-07-Steve Pavlina - 8th Habit (Self-Expression).md",
+                "file": "quotes/2023-11-29-Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "habits/2023-11-07-Steve Pavlina - 8th Habit (Self-Expression).md",
+                "file": "quotes/2023-11-29-Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "habits/2023-11-07-Steve Pavlina - 8th Habit (Self-Expression).md"
+                "file": "quotes/2023-11-29-Quotes.md"
               }
             }
           }
@@ -148,10 +148,25 @@
   },
   "active": "86bd8798a8787a42",
   "lastOpenFiles": [
-    "gardening/2024-01-10-Dan Koe Wednesday.md",
+    "pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
+    "pathofexile/2023-12-19-Stash Tab Prices.md",
+    "pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
+    "marketing/2023-11-08-IDEAS To Get Paid.md",
+    "money/2023-12-21-MONEY (Extrase Din The Journal).md",
+    "money/2023-12-19-Un mod congruent de-a face bani.md",
+    "money/2023-12-19-Positive Aspects Of Earning Money.md",
+    "money/2023-12-19-Money Flows Socially.md",
+    "money/2023-12-18-Overcoming Scarcity (Pavlina).md",
+    "marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
+    "habits/2023-11-07-Steve Pavlina - 8th Habit (Self-Expression).md",
+    "gardening/2023-12-21-ObsidianRocks -Timeboxing.md",
+    "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+    "marketing/2023-12-19-Marian Rujoiu - Building Trust Online.md",
     "gardening/2024-01-06-Campolargo-Steppenwolf.md",
-    "gardening/2024-01-06-Campolargo-Snippets.md",
     "gardening/2024-01-06-Campolargo-Annual Review.md",
+    "gardening/2024-01-06-Campolargo-Snippets.md",
+    "gardening/2024-02-18-Nathaniel Drew.md",
+    "gardening/2024-01-10-Dan Koe Wednesday.md",
     "habits/2023-12-21-Brian Tracy - Business That Works.md",
     "habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
     "quotes/2023-11-29-Quotes.md",
@@ -159,21 +174,6 @@
     "dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",
     "dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
     "dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
-    "dopamine/2023-12-19-Dopamine Fasting & Detox.md",
-    "dopamine/2023-11-27-MOC_Dopamine.md",
-    "dopamine/2023-11-27-Dopamine Introduction.md",
-    "gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
-    "gardening/2023-12-21-Timeboxing.md",
-    "gardening/2023-12-21-Taking Notes (With Obsidian).md",
-    "marketing/2023-11-08-Actions To Get Paid (PAID Work).md",
-    "money/2023-12-18-Overcoming Scarcity (Pavlina).md",
-    "money/2023-12-19-Money Flows Socially.md",
-    "pathofexile/2023-11-02-TRACKER Time Spent In PoE.md",
-    "pathofexile/2023-12-19-Stash Tab Prices.md",
-    "pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
-    "pathofexile/2023-11-02-Path Of Exile Notes.md",
-    "pathofexile/2023-11-02-Zizaran Explains PoE.md",
-    "pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
     "skills/2023-12-21-Software.txt",
     "skills",
     "New folder",

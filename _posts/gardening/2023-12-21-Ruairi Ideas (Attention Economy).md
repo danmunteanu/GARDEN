@@ -1,5 +1,5 @@
 ---
-title: Ruairi Ideas (Attention Economy)
+title: Ruairi Ideas - Attention Economy
 date: 2023-11-29 11:46 AM
 categories:
   - Gardening
@@ -10,7 +10,7 @@ From [Ruairi's Notes](https://notes.ruairimcnicholas.com/)
 
 Where would **Templates** be useful?
 
-## Actionable Ideas From Ruairi
+## Actionable Ideas
 
 Source: [Personal Priorities](https://notes.ruairimcnicholas.com/30+Personal/My+priorities)
 
@@ -22,10 +22,10 @@ Our two most important resources - **Attention & Time**
 
 **Priorities** - what matters most
 
-Book Templates:
+**Book Templates**
 https://notes.ruairimcnicholas.com/40+Templates/020+Book+Template
 
-30 Daily Template
+**30 Daily Template**
 Example: https://notes.ruairimcnicholas.com/40+Templates/030+Daily+Note
 Second Ex: https://notes.ruairimcnicholas.com/40+Templates/071+Day+Planner
 https://notes.ruairimcnicholas.com/40+Templates/Archive/032+Daily+Note+V3
