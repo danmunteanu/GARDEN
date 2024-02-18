@@ -29,20 +29,23 @@ Source: [The One Person Business Model 2.0 (Turn Yourself Into A Business)](http
 - Marketing
 - Sales
 
-Become a valued creator within **your interests**
+Become a **valued creator** within **your interests**
 
 You need your **mental currency** (aka focus) invested in a goal 
 Feel pulled to achieve it.
 
-subtopics of your market? e.g. Ableton?
+subtopics of your market?
 
-What are the subtopics of music production with Ableton?
+What are the subtopics of Ableton?
 
-Digital Renaissance Man
+## Digital Renaissance Man
 
 Self-learner to be truly irreplaceable
 
-credentials? results? your content is the credentials
+Credentials? 
+Results? 
+
+your content = the credentials
 
 invest energy in this **personal brand**
 the universe is calling you to evolve
