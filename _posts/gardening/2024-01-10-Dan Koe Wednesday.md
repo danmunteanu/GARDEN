@@ -8,7 +8,7 @@ categories:
 Source: [The One Person Business Model 2.0 (Turn Yourself Into A Business)](https://www.youtube.com/watch?v=QoBCtcWO02g)
 
 ## Main Ideas
-- digital real estate
+- building digital real estate
 - you're a personal brand
 - creator economy
 - creators are hiring people left and right

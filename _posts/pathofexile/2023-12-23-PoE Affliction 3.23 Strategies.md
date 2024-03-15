@@ -7,18 +7,13 @@ categories:
 tags: 
 layout: post
 ---
-## League Start Preps
-- prepare regex
-- list of lab trials
-- list of quests that grant passives (/passives after completing campaign)- 
-
 ## Bosses
 - [x] Eater (easy peasy)
 - [x] Exarch (fuckin' fire balls)
-- [ ] Maven
-- [ ] Shaper
-- [ ] Elder
-- [ ] Sirus
+- [x] Maven
+- [x] Shaper
+- [x] Elder
+- [x] Sirus
 
 ## Checks After Campaign Completion
 - [ ] Overcapping Resistances 75%+

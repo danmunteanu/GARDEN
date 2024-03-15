@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Campolargo) Steppenwolf (SNIPPET)
+title: Steppenwolf SNIPPET (Campolargo)
 date: 2024-01-06 18:56:19
 categories:
   - Gardening
