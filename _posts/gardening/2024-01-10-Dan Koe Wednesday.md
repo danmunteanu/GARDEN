@@ -4,6 +4,8 @@ source: https://www.youtube.com/watch?v=QoBCtcWO02g
 date: 2024-01-10
 categories:
   - Gardening
+tags:
+  - DanKoe
 ---
 Source: [The One Person Business Model 2.0 (Turn Yourself Into A Business)](https://www.youtube.com/watch?v=QoBCtcWO02g)
 
@@ -31,7 +33,7 @@ Source: [The One Person Business Model 2.0 (Turn Yourself Into A Business)](http
 
 Become a **valued creator** within **your interests**
 
-You need your **mental currency** (aka focus) invested in a goal 
+You need your **mental currency** (aka focus) invested in a goal
 Feel pulled to achieve it.
 
 subtopics of your market?
@@ -42,8 +44,8 @@ What are the subtopics of Ableton?
 
 Self-learner to be truly irreplaceable
 
-Credentials? 
-Results? 
+Credentials?
+Results?
 
 your content = the credentials
 
@@ -54,4 +56,3 @@ You're wasting that energy if you don't complete the goals
 Stagnation = Death
 
 You might as well start now
-

@@ -3,7 +3,7 @@ title: Ruairi Ideas - Attention Economy
 date: 2023-11-29 11:46 AM
 categories:
   - Gardening
-tags: 
+tags:
 layout: post
 ---
 From [Ruairi's Notes](https://notes.ruairimcnicholas.com/)
@@ -32,7 +32,7 @@ https://notes.ruairimcnicholas.com/40+Templates/Archive/032+Daily+Note+V3
 
 
 ## Writing Template
-TUFD = The Ugly First Draft
+**TUFD** = The Ugly First Draft
 
 Show up and throw up. Write badly. Write as if no one will ever read it (Stephen King calls this 'writing with the door closed.'). Don't worry about grammar, complete sentences, or readability. Don't fret about spelling or usage, you'll tackle that all later. For now just get that TUFD down.
 

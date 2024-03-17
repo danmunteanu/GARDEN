@@ -3,7 +3,7 @@ title: Taking Notes (With Obsidian)
 author: Dan
 date: 2023-11-29 11:46 AM
 categories: [Gardening]
-tags: 
+tags:
 layout: post
 ---
 From: [How To Take Notes In Obsidian](https://obsidian.rocks/how-to-take-book-notes-in-obsidian/)
@@ -18,23 +18,23 @@ keep a **simple list of books** I had read (that year)
 
 Obsidian’s **linked nature**
 
-**Jordan Peterson**’s_Beyond Order_
+Jordan Peterson’s **Beyond Order**
 
 **Notice that opportunity lurks where responsibility has been abdicated**
 
 **C.S. Lewis**
-- Fighting with yourself every day is hard. 
-- Pursuing the good at all costs is hard. 
-- Avoiding distraction is hard. 
-- But that is the way to salvation, that is the way to a good life, and 
-there’s no point putting it off until you’re old. 
+- Fighting with yourself every day is hard.
+- Pursuing the good at all costs is hard.
+- Avoiding distraction is hard.
+- But that is the way to salvation, that is the way to a good life, and
+there’s no point putting it off until you’re old.
 - Fix yourself now, with any luck you can bring a bunch of other people along for the ride.
 
 **Do not do what you hate.**
 
 to follow your conscience and **live with the consequences**.
 
-The consequences of following your conscience will always be better than the consequences of betraying yourself. 
+The consequences of **following your conscience** will always be better than the consequences of **betraying yourself**.
 
 
 *I’ve never read the full note. It’s too dense, too cluttered, too much work to figure out the long-lost **context***
@@ -45,7 +45,7 @@ to **disconnect** the **idea** from the **book**
 
 **atomic notes**
 
-**code** that is**_reusable_**to a point where it **never needs to be written again**
+**code** that is **_reusable_** to a point where it **never needs to be written again**
 
 If you’re not careful, you may end up **repeating yourself** again and again
 
