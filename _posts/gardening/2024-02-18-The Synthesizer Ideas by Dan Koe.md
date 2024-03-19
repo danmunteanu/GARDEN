@@ -3,8 +3,10 @@ title: The Synthesizer (Dan Koe's Newsletter)
 author:
   - Dan Munteanu
 date: 2024-02-18
+tags:
+  - DanKoe
 ---
-Source: [Dan Koe's Newsletter](https://thedankoe.com/)
+**Source**: [Dan Koe's Newsletter](https://thedankoe.com/)
 ## Dan Koe's Synthesizer
 
 A synthesizer is someone who takes a unique path

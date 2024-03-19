@@ -5,8 +5,6 @@ date: 2023-12-20 19:00:11
 categories:
   - Skills
 ---
-I don't do professional audio work.
-
 ## Ce-mi place sa fac?
 - sa fac tranzitii intre piese
 - sa imi folosesc vocea sa vorbesc in microfon

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3351c2d3430408",
+        "id": "68753dab5ede2b23",
         "type": "tabs",
         "children": [
           {
-            "id": "5dde4c3df52eb78e",
+            "id": "613666db797d43c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_tabs/about.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 416.5
   },
   "right": {
     "id": "ed275f52da822c82",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_tabs/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_tabs/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_tabs/about.md"
+              }
             }
           }
         ]
@@ -138,16 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dde4c3df52eb78e",
+  "active": "613666db797d43c8",
   "lastOpenFiles": [
+    "_site/assets/lib/mathjax/tex-mml-chtml.js",
+    "_site/assets/lib/mathjax/tex-chtml.js",
+    "_site/assets/lib/mathjax/tex-chtml-full.js",
+    "_site/assets/lib/mathjax/startup.js",
+    "_site/sitemap.xml",
+    "_site/page7/index.html",
+    "_site/page7",
+    "_site/page6/index.html",
+    "_site/page6",
+    "_site/page5/index.html",
+    "_site/page5",
+    "_site/assets/img/favicons/android-chrome-192x192.png",
+    "_site/assets/reality.png",
+    "_site/assets/lib/fontawesome-free/README.md",
+    "_site/assets/lib/README.md",
+    "_site/assets/audition.png",
+    "_site/_site/assets/lib/fontawesome-free/README.md",
+    "_site/_site/assets/img/favicons/mstile-150x150.png",
+    "_site/_site/assets/img/favicons/favicon-32x32.png",
+    "_site/_site/assets/img/favicons/favicon-16x16.png",
+    "_site/_site/assets/img/favicons/apple-touch-icon.png",
+    "_site/_site/assets/img/favicons/android-chrome-512x512.png",
+    "_site/_site/assets/img/favicons/android-chrome-192x192.png",
+    "_site/_site/assets/lib/README.md",
+    "_site/_site/assets/audition.png",
+    "_posts/skills/2023-12-21-Software I Love.md",
     "README.md",
-    "_posts/skills/2023-12-21-Ce Fac Deja.md",
+    "_posts/gardening/2024-02-18-Nathaniel Drew.md",
+    "_posts/gardening/2024-02-18-The Synthesizer Ideas by Dan Koe.md",
+    "_posts/money/2023-12-19-Money Flows Socially.md",
+    "_posts/tracker/2024-02-18-Week-07-Retrospective.md",
     "_posts/skills/2023-12-21-To Really Have Results.md",
-    "_site/posts/To-Really-Have-Results/index.html",
-    "_site/posts/To-Really-Have-Results",
-    "_posts/skills/2023-12-21-Software.md",
     "_posts/skills/2023-12-21-Skill Oriented Questions.md",
     "_posts/skills/2023-12-21-Previous Roles.md",
+    "_posts/skills/2023-12-21-Ce Fac Deja.md",
+    "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
+    "_posts/dopamine/2023-11-27-Dopamine Introduction.md",
+    "_posts/skills/2023-12-21-Software.md",
     "_posts/pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
     "_posts/pathofexile/2023-11-02-Path Of Exile Compendium.md"
   ]

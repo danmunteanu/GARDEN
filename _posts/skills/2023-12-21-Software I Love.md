@@ -7,7 +7,7 @@ categories:
 ---
 ## Software I Know And Love Using
 #### Adobe Audition
-![[Adobe_Audition.png]]
+![[_site/assets/audition.png]]
 - Camtasia
 - Adobe Premiere Pro
 - Adobe After Effects

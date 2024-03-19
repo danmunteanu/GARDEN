@@ -16,16 +16,16 @@ timezone: Europe/Bucharest
 
 title: Dan's Voice # the main title
 
-tagline: Your Mind's Connections # it will display as the sub-title
+tagline: Making Connections # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Contains part of my private digital garden coming from Obsidian.
+  A subset of my public Obsidian-based private digital garden.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-# url: "https://notes.realityframeworks.com"
-url: https://danmunteanu.github.io/
-baseurl: /NOTES_Garden
+url: "https://notes.realityframeworks.com"
+# url: https://danmunteanu.github.io/
+# baseurl: /NOTES_Garden
 
 github:
   username: danmunteanu # change to your github username

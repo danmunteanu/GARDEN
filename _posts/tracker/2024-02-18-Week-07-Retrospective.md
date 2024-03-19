@@ -5,7 +5,7 @@ author: dan
 categories:
   - Tracker
 ---
-## W7 Retrospective
+## Week-07 Retrospective
 - [x] Finished watching Freelancing course on Fiverr (Earned Badge)
 - [x] Recorded Introduction & Finished Editing it
 - [x] Submitted course for review
