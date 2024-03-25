@@ -1,5 +1,5 @@
 ---
-title: W7 (Retrospective)
+title: Week-07 (Retrospective)
 date: 2024-02-18
 author: dan
 categories:
