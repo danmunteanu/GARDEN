@@ -13,24 +13,24 @@ What leads to that?
 **AIDA** - Attention, Interest, Desire, Action
 
 At a Bookstore:
-	- **AWARENESS** person finds the book in a bookstore
-	- **INTEREST** something catches the eye of that person
-		- person becomes interested in the book OR
-		- person wants to buy it as a Gift				
-	- **DESIRE** person wants to buy the book
-	- **ACTION** person takes the book to the cashier
-	- **PAYMENT** person pays for the book and takes it home
+- **AWARENESS** person finds the book in a bookstore
+- **INTEREST** something catches the eye of that person
+	- person becomes interested in the book OR
+	- person wants to buy it as a Gift				
+- **DESIRE** person wants to buy the book
+- **ACTION** person takes the book to the cashier
+- **PAYMENT** person pays for the book and takes it home
 
 Online:
-	- person is browsing online shop
-	- **AWARENESS** person either searches for book she saw in bookstore OR
-	- **AWARENESS** person sees book suggested on site
-	- **INTEREST** something catches the eye either from the description, or a hunch
-	- **INTEREST** maybe there's a deal and the title is good, speaks to them
-	- **ACTION** person places an order including the book
-	- **PAYMENT** person pays for the order
-		- either Online
-		- upon receiving ORDER
+- person is browsing online shop
+- **AWARENESS** person either searches for book she saw in bookstore OR
+- **AWARENESS** person sees book suggested on site
+- **INTEREST** something catches the eye either from the description, or a hunch
+- **INTEREST** maybe there's a deal and the title is good, speaks to them
+- **ACTION** person places an order including the book
+- **PAYMENT** person pays for the order
+	- either Online
+	- upon receiving ORDER
 
 
 **DESIRE + WANTING** is what leads to getting paid, WANTING. When somebody wants something and pays for it.

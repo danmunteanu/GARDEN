@@ -1,10 +1,8 @@
 ---
 title: ObsidianRocks -Timeboxing
 date: 2023-11-29 11:46 AM
-categories:
-  - Gardening
-tags:
 layout: post
+categories: Gardens
 ---
 Source: [Planning Your Day In Obsidian By Timeboxing](https://obsidian.rocks/planning-your-day-by-timeboxing-in-obsidian/)
 

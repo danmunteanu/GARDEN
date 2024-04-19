@@ -7,14 +7,13 @@ categories:
 tags: 
 layout: post
 ---
-
 ## Dopamine Fasting
 
 Source: [Dopamine Fasting Introduction](https://publish.obsidian.md/alexisrondeau/Dopamine+Fast+Introduction)
 
 The **things** that are **beneficial** for you **don’t give you the dopamine** compared to **phone**.
 
-I got back to a place where I get a **HUGE HIGH** working on my business. I’m so pumped, can’t wait to work on it.”
+I got back to a place where I get a **HUGE HIGH** working on my business. I’m so pumped, can’t wait to work on it.
 
 Take your phone, **delete social media apps**, or **block sites** FOREVER. 
 Stop using your phone. Put it on airplane mode. 

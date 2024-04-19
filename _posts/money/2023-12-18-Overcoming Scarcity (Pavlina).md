@@ -10,15 +10,17 @@ tags:
 Source: [Steve Pavlina (Day 2): Overcoming Scarcity](https://youtu.be/_HrbZqgAb00?si=QDgbmcOn5ixmE775)
 ## Notes From Overcoming Scarcity (Pavlina)
 - **Focus Attention differently**
-- instead of focusing on the neediness and the lack and trying to get something going for yourself first? Before you can contribute?
+- instead of focusing on the neediness and the lack and trying to get something going for yourself first, before you can contribute
 - making contribution to other people
 - having more fun in life, enjoying life, contribution to other people’s lives
-- natural temptation is to focus on your own needs -> _uninspiring to other people_
-=> Articles, volunteering, less time on own neediness
+- natural temptation is to focus on your own needs
+	- uninspiring to other people
+- create & publish Articles, volunteering, less time on own neediness
 - be of a Contributing Mindset
 - neediness is a habit, a Mindset
-- help a contributor: I can Make a Difference in The World!
-- meaningful, purposeful.
+- help a contributor
+	- I can Make a Difference in The World!
+- meaningful, purposeful
 - blogging with the mindset of helping people
 - doing some good work in the world
 - extra appreciation for the work

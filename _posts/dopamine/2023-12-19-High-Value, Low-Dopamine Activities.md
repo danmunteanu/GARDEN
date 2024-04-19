@@ -7,7 +7,6 @@ categories:
 tags: 
 layout: post
 ---
-
 The activities that help **move things forward**. 
 This is the stuff that **actually matters**!
 
@@ -44,9 +43,11 @@ Practice
 Reviewing previous notes
 
 Organizing
+Cleaning out room
 
 Sorting
 
 Being 
+Enjoying Life
 
 Stopping

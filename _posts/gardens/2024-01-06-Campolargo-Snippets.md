@@ -2,10 +2,7 @@
 layout: post
 title: Future Self SNIPPET (Campolargo)
 date: 2024-01-06 18:56:19
-categories:
-  - Gardening
-tags:
-  - Campolargo
+categories: Gardens
 ---
 Source: [Future Self by Campolargo](https://www.juandavidcampolargo.com/blog/future-self)
 

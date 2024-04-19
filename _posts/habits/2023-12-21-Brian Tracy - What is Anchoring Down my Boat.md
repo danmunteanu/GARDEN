@@ -1,26 +1,37 @@
 ---
 layout: post
-title:  "Brian Tracy - What Is Anchoring Down My Boat?"
-date:   2023-12-21 11:11:00 AM
-categories: Habits
-tags: Tracy
-source: https://youtu.be/MN7yfV4UuCI
+title: What Is Anchoring Down My Boat? (Brian Tracy Ideas)
+date: 2023-12-21 11:11:00 AM
+categories:
+  - Habits
+tags:
+  - BrianTracy
 ---
+**SOURCE:** [How To Build A Business That Works | Brian Tracy](https://www.youtube.com/watch?v=MN7yfV4UuCI)
 ## What is Anchoring Down my Boat?
-- focusing on stuff that doesn't **create the traction** I want
-- lack of **accountability**
-- the vibe of the city around me
-	- not on Friday-17-Nov
-- commodity
+
+#### My Comfort Zone
+- being too comfortable
+- **running away** when **things get tough** or when **effort is required**
 - returning to the comfort zone
 - re-engaging in **old habits** / activities
+- **expecting things to feel good** and **refusing to do** them if they don't
+
+#### FOCUS
+- not *having a project to focus on* (or multiple projects)
 - being **spread too thin** - being focused on too many things at once
-- not focusing on a project or multiple projects
-- not having a **plan**
-- not completing what I started (projects)
-- not **publishing** 
-- the absence of **scheduling & planning**
+- focusing on stuff that doesn't **create the traction** I want
+- **focusing on** the vibe of the city around me
+	- not on Friday-17-Nov
 - **consuming too much** knowledge and taking too little action based on that knowledge
 	- *Knowledge / Action ratio too high* or
 	- *Action / Knowledge* ratio too low
-- not focusing on **creating** and only **consuming** instead
+- **not focusing** on **creating** and only **consuming** instead
+- not **publishing** 
+
+#### Scheduling & Planning
+- the absence of **scheduling & planning**
+- not having a **plan**
+- lack of **accountability**
+- **not completing** what I started (projects)
+- **SOLUTION**: Have A Calendar

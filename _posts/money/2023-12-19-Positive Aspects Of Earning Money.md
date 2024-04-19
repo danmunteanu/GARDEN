@@ -11,16 +11,17 @@ categories:
 - I can spend it on whatever I choose
 - I can  buy my own office space or pay for the rent
 - pays for travels
-- buys stuff you want, like piano midi keys, new Tesla jacket
+- buys stuff I want, like piano midi keys, new jacket
 - feeling I'm in charge of my life
 - feeling good about myself - "ma descurc"
 - feeling the relief of *I don't have to count my money so strictl*y
 - self-respect; I can take care of my needs
 - buying the software I want
-- buying a laptop for gaming
-- feeling of freedom
+- buying gaming laptop
+- feeling of ~~freedom~~ possibiliy, 
+	- open space of possibilities
 - a feeling of joy
-- feeling good about myself.
+- feeling good about myself
 - feeling smart
 - believing in myself
 - increases the self-esteem

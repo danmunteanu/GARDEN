@@ -1,10 +1,8 @@
 ---
 title: Ruairi Ideas - Attention Economy
 date: 2023-11-29 11:46 AM
-categories:
-  - Gardening
-tags:
 layout: post
+categories: Gardens
 ---
 **Source:** [Ruairi's Notes](https://notes.ruairimcnicholas.com/)
 

@@ -2,9 +2,8 @@
 title: Taking Notes (With Obsidian)
 author: Dan
 date: 2023-11-29 11:46 AM
-categories: [Gardening]
-tags:
 layout: post
+categories: Gardens
 ---
 From Obsidian Rocks: [How To Take Notes In Obsidian](https://obsidian.rocks/how-to-take-book-notes-in-obsidian/)
 
