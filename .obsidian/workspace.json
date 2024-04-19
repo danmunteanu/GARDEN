@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/gardening/2024-02-18-The Synthesizer Ideas by Dan Koe.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 386.5
   },
   "right": {
     "id": "ed275f52da822c82",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/gardening/2024-02-18-The Synthesizer Ideas by Dan Koe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/gardening/2024-02-18-The Synthesizer Ideas by Dan Koe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/about.md"
+                "file": "_posts/gardening/2024-02-18-The Synthesizer Ideas by Dan Koe.md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "613666db797d43c8",
   "lastOpenFiles": [
+    "_posts/gardening/2024-02-18-Nathaniel Drew.md",
+    "_posts/gardening/2024-01-10-Dan Koe Wednesday.md",
+    "_posts/gardening/2024-01-06-Campolargo-Snippets.md",
+    "_posts/gardening/2024-01-06-Campolargo-Annual Review.md",
+    "_posts/gardening/2023-12-21-Taking Notes (With Obsidian).md",
+    "_posts/gardening/2023-12-21-Ruairi Ideas (Attention Economy).md",
+    "_posts/gardening/2023-12-21-ObsidianRocks -Timeboxing.md",
+    "_posts/marketing/2023-11-08-Paul Olteanu - Cum Să Mă Vând.md",
+    "_posts/marketing/2023-11-08-To Get Paid (IDEAS).md",
+    "_posts/marketing/2023-12-19-Marian Rujoiu - Încredere Online.md",
+    "_tabs/about.md",
     "_site/assets/lib/mathjax/tex-mml-chtml.js",
     "_site/assets/lib/mathjax/tex-chtml.js",
     "_site/assets/lib/mathjax/tex-chtml-full.js",
@@ -158,7 +169,6 @@
     "_site/page6/index.html",
     "_site/page6",
     "_site/page5/index.html",
-    "_site/page5",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/lib/fontawesome-free/README.md",
@@ -175,7 +185,6 @@
     "_site/_site/assets/audition.png",
     "_posts/skills/2023-12-21-Software I Love.md",
     "README.md",
-    "_posts/gardening/2024-02-18-Nathaniel Drew.md",
     "_posts/gardening/2024-02-18-The Synthesizer Ideas by Dan Koe.md",
     "_posts/money/2023-12-19-Money Flows Socially.md",
     "_posts/tracker/2024-02-18-Week-07-Retrospective.md",
@@ -184,9 +193,6 @@
     "_posts/skills/2023-12-21-Previous Roles.md",
     "_posts/skills/2023-12-21-Ce Fac Deja.md",
     "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
-    "_posts/dopamine/2023-11-27-Dopamine Introduction.md",
-    "_posts/skills/2023-12-21-Software.md",
-    "_posts/pathofexile/2024-01-02 Affliction 3.23 Best Points.md",
-    "_posts/pathofexile/2023-11-02-Path Of Exile Compendium.md"
+    "_posts/dopamine/2023-11-27-Dopamine Introduction.md"
   ]
 }

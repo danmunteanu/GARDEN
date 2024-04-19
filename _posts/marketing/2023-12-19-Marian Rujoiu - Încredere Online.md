@@ -15,12 +15,12 @@ Social validation + Social proof
 
 ## Marian Rujoiu said:
 People buy from you if they:
-- **Know** You
-- **Like** You
-- **Trust** You
+- **KNOW** You
+- **LIKE** You
+- **TRUST** You
 
-People need to know you -> make yourself seen
+People need to **know you** -> make yourself seen
 
-People need to like you -> what do they like?
+People need to **like you** -> what do they like?
 
-People need to trust you -> consistency
+People need to **trust you** -> **consistency**

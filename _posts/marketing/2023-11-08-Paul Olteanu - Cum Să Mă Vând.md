@@ -35,17 +35,20 @@ Lumea nu o să te caute chiar dacă eşti cum am descris mai sus pentru că…
 
 *Degeaba ești excepțional, dacă nimeni nu știe de tine.*
 
-#### Pune-te pe Piață
+### Pune-te pe Piață
 *Ajută oamenii* **să afle despre tine**, despre ceea **ce faci** și **cum faci**
 
-## CUM mă pun pe piața?
-- Fiverr GIG - Înregistrări VoiceOverr
-- Fiverr GiG - Mix
-- Fiverr - Editare Audio
-- Fiverr - Editare Video
-- Fiverr - Mixaje In Ableton
-- Publicat pe Reality Frameworks (YouTube)
-- Link direct din Fiverr spre Portofoliu de Voce (sau GDrive cu Inregistrari)- 
+
+## Cum mă pun pe piața Fiverr?
+- [ ] Fiverr GIG - Înregistrări VoiceOverr
+- [ ] Fiverr GiG - MIX
+- [ ] Fiverr - Mixaje In Ableton
+- [ ] Fiverr - Editare Audio
+- [ ] Fiverr - Editare Video
+- [ ] Articole pe Reality Frameworks
+- [ ] Videos pe RF (YouTube)
+- [ ] Link din Fiverr spre Portofoliu de Voce (sau GDrive cu Inregistrari)
+
 
 ## Idei Noi, Strategii:
 - cunoaște oameni noi
@@ -58,6 +61,7 @@ Lumea nu o să te caute chiar dacă eşti cum am descris mai sus pentru că…
 - luni sau ani
 
 #### *Pentru ce aș vrea să fiu cunoscut?*
-- Voce
+- Voice Talent
+- Music Production
 - Ca stiu sa explic ceea ce cunosc 
 

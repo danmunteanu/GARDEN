@@ -22,9 +22,10 @@ order: 4
 ## About this Digital Garden
 - I write both in English and Romanian (my native tongue)
 - This is my learning-in-public experiment
-- Some of the posts are excerpts of ideas found on other people's digital gardens; the source is  mentioned at the beginning of every article of this type
+- Some of the posts are excerpts of ideas from other people's digital gardens; 
+	- The source is  mentioned at the beginning of every article
 
-## You Can Also Find Me Here:
-- On [Fiverr](https://www.fiverr.com/users/dan_munteanu/)
+## I'm Active Here As Well:
+- [Fiverr](https://www.fiverr.com/users/dan_munteanu/)
 - [Reality Frameworks](https://www.youtube.com/@RealityFrameworks) (on YouTube)
-- On [Twitter](https://twitter.com/DanMunteanuX)
+- [Twitter](https://twitter.com/DanMunteanuX)

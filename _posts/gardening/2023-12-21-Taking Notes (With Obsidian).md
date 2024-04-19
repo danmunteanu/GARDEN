@@ -6,7 +6,7 @@ categories: [Gardening]
 tags:
 layout: post
 ---
-From: [How To Take Notes In Obsidian](https://obsidian.rocks/how-to-take-book-notes-in-obsidian/)
+From Obsidian Rocks: [How To Take Notes In Obsidian](https://obsidian.rocks/how-to-take-book-notes-in-obsidian/)
 
 **structuring notes** with an eye towards **discoverability**.
 
@@ -30,26 +30,25 @@ Jordan Peterson’s **Beyond Order**
 there’s no point putting it off until you’re old.
 - Fix yourself now, with any luck you can bring a bunch of other people along for the ride.
 
-**Do not do what you hate.**
+## Do not do what you hate.
 
-to follow your conscience and **live with the consequences**.
+to follow your conscience and **Live With The Consequences**.
 
 The consequences of **following your conscience** will always be better than the consequences of **betraying yourself**.
 
-
-*I’ve never read the full note. It’s too dense, too cluttered, too much work to figure out the long-lost **context***
+*I’ve never read the full note. It’s too dense, too cluttered, too much work to figure out the long-lost **context*** TL;DR
 
 The **worst type of note** is a note that **requires context to understand**
 
 to **disconnect** the **idea** from the **book**
 
-**atomic notes**
+**Atomic Notes**
 
 **code** that is **_reusable_** to a point where it **never needs to be written again**
 
 If you’re not careful, you may end up **repeating yourself** again and again
 
-**Atomic notes** are useful for **thousands of things**.
+**Atomic Notes** are useful for **thousands of things**.
 
 **Every new idea** gets a **new note**
 

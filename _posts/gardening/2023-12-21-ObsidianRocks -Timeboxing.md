@@ -8,7 +8,7 @@ layout: post
 ---
 Source: [Planning Your Day In Obsidian By Timeboxing](https://obsidian.rocks/planning-your-day-by-timeboxing-in-obsidian/)
 
-**Timeboxing** is the practice of **migrating your todo list to your calendar**.
+**Timeboxing** is the practice of **migrating your TODO list to your calendar**.
 
 Instead of having long lists of tasks, you have allocated **_time slots_**
 
@@ -18,7 +18,7 @@ _time-slots_ are **focused sessions**
 
 **Attention is the new currency**
 
-We are all inundated with information 24/7
+We are all inundated with **information** 24/7
 
 how does one **recapture focus**?
 

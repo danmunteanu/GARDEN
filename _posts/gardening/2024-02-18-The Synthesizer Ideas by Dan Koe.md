@@ -12,7 +12,7 @@ tags:
 A synthesizer is someone who takes a unique path
   curiosity as their compass
 
-A synthesizer is an obsessive **reality explorer**
+A synthesizer is an **obsessive reality explorer**
 
 understand that reality cannot be compartmentalized
 

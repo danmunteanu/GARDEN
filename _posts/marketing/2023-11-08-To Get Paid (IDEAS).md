@@ -1,31 +1,12 @@
 ---
 layout: post
-title: IDEAS To Get Paid
+title: To Get Paid (IDEAS)
 date: 2023-11-22 18:56:19
 categories:
   - Marketing
 location: "@CinqueCento"
 ---
-## Produsul Are 
-- ambalaj
-- prezentare
-- imagini
-- felul cum arată transmite ceva 
-
-*link to the images of products you gathered*
-
-## These actions do NOT get paid:
-- resizing images
-- downloading images
-- playing with images in Obsidian
-- thinking about what gets you paid
-
-Well, I gotta start someplace, don't I?
-
-What are the actions that lead to getting paid, when it comes to writing?
-
 ## Writing (A Book)
-
 Somebody buys the book
 
 What leads to that? 
@@ -62,9 +43,32 @@ Giving them something they want. Somebody wants something you have and buys from
 
 *I have something someone else wants.* 
 
+## Produsul Are 
+- ambalaj
+- prezentare
+- imagini
+- felul cum arată transmite ceva 
+*link to the images of products you gathered*
+
+## These actions do NOT get paid:
+- resizing images
+- downloading images
+- playing with images in Obsidian
+- thinking about what gets you paid
+
+Well, I gotta start someplace, don't I?
+
+What are the actions that lead to getting paid, when it comes to writing?
+
+
 ## What do I have that someone else wants?
 
-How do I figure out? Publishing to the Simulator, that's how. Marketing myself. Making myself known, visible, available to **provide** a **product** or **service** that *someone else* **needs** or **wants** and is *willing to pay* for it.
+How do I figure out? 
+Publishing, that's how. 
+- A Strategy For Publishing
+Marketing my offers. 
+Making myself known, visible, available.
+**Provide** a **PRODUCT** or **SERVICE** that *someone else* **WANTS** or **NEEDS** and is *willing to pay* for it.
 
 **Cerere** și **Ofertă**
 

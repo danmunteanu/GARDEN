@@ -11,7 +11,7 @@ Source: [Future Self by Campolargo](https://www.juandavidcampolargo.com/blog/fut
 
 progress in my projects
 
-having people who were once where you are
+**having people who were once where you are**
 
 Some people call people like Paul “mentors,” but that word is overused and over-hyped 
 I call them, My Future Selves.
