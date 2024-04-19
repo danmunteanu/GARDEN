@@ -4,28 +4,36 @@ icon: fas fa-info-circle
 order: 4
 ---
 ## About Dan Munteanu:
-- I am 39-years old
-- I was born in Romania
-- Since 2024, I started doing voiceovers on Fiverr
-- I am currently learning:
+- 39-years old
+- From Romania
+- Does Voiceovers on Fiverr
+- Currently Learning:
+	- Voice Acting
+	- Ableton
 	- YAML
 	- Jekyll
 	- C#
-- I am interested in:
-	- Music production (Ableton )
-- I know (SKILLS):
-	- Editing Audio (for Podcasts, Udemy, etc.)
+- Interested In:
+	- Music Theory
+	- Music Production With Ableton
+- Knows:
+	- Editing Audio (in Adobe Audition, Audacity)
+	- How To DJ (Mixing Songs)
 	- Meditation
-	- Mixing Music (How To DJ)
-	- Software Development (OOP, C#, C++)
+	- English
+	- Software Development
+		- Object Oriented Programming
+		- C#
+		- C++
 
-## About this Digital Garden
-- I write both in English and Romanian (my native tongue)
-- This is my learning-in-public experiment
-- Some of the posts are excerpts of ideas from other people's digital gardens; 
-	- The source is  mentioned at the beginning of every article
+## About This Digital Garden
+- Posts In Both English and Romanian
+- Learning In Public Experiment
+- Some posts contain ideas from other people's Digital Gardens
+	- Source is mentioned at the beginning of each article
 
-## I'm Active Here As Well:
+## I'm Here As Well:
 - [Fiverr](https://www.fiverr.com/users/dan_munteanu/)
-- [Reality Frameworks](https://www.youtube.com/@RealityFrameworks) (on YouTube)
+- [Reality Frameworks YouTube Channel](https://www.youtube.com/@RealityFrameworks)
 - [Twitter](https://twitter.com/DanMunteanuX)
+- [Reality Frameworks](https://www.realityframeworks.com)

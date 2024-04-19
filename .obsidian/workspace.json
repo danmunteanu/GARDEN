@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68753dab5ede2b23",
+        "id": "b25ff1b31abc32d8",
         "type": "tabs",
         "children": [
           {
-            "id": "613666db797d43c8",
+            "id": "ef95be6fa852aed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 384.5
   },
   "right": {
     "id": "ed275f52da822c82",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,21 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613666db797d43c8",
+  "active": "546856dba3dcdcec",
   "lastOpenFiles": [
-    "_site/_site.zip",
-    "_site/about.zip",
-    "_site/posts/Paul-Olteanu-Cum-Sa-Ma-Vand/index.html",
-    "_site/posts/Paul-Olteanu-Cum-Sa-Ma-Vand",
+    "posts/text-and-typography.md",
+    "README.md",
+    "_tabs/tags.md",
+    "_tabs/categories.md",
+    "_tabs/archives.md",
+    "_tabs/about.md",
+    "_site/about/index.html",
+    "_site/about",
+    "_site/tabs/about.md",
+    "_site/tabs",
+    "_posts/templates/2019-08-08-text-and-typography.md",
+    "_site/posts/text-and-typography.md",
+    "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
+    "posts",
+    "_site/posts/Wisdom-&-Reminders/index.html",
+    "_site/posts/Wisdom-&-Reminders",
+    "_posts/quotes/2023-11-29-Quotes.md",
+    "_site/posts/Wisdom-&-Ideas-+-Remiders/index.html",
+    "_site/posts/Wisdom-&-Ideas-+-Remiders",
+    "_posts/quotes/Wisdom & Ideas + Remiders.md",
+    "_site/posts/Quotes/index.html",
+    "_site/posts/Quotes",
+    "_posts/gardens/2024-01-06-Campolargo-Annual Review.md",
+    "_posts/skills/2023-12-21-Software I Love Using.md",
+    "_posts/skills/2023-12-21-What Am I Doing Already.md",
+    "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
     "_posts/marketing/2023-12-19-Marian Rujoiu - Incredere Online.md",
-    "_site/posts/Marian-Rujoiu-Incredere-Online/index.html",
-    "_site/posts/Marian-Rujoiu-Incredere-Online",
     "_posts/money/2023-12-21-Extrase Din The Journal.md",
-    "_site/posts/Extrase-Din-The-Journal/index.html",
-    "_site/posts/Extrase-Din-The-Journal",
     "_posts/money/2023-12-19-Un Mod Congruent De-a Face Bani.md",
-    "_site/posts/Un-Mod-Congruent-De-a-Face-Bani/index.html",
-    "_site/posts/Un-Mod-Congruent-De-a-Face-Bani",
     "_posts/money/2023-12-19-Positive Aspects Of Earning Money.md",
     "_posts/money/2023-12-19-Money Flows Socially.md",
     "_posts/money/2023-12-18-Overcoming Scarcity (Pavlina).md",
@@ -168,22 +184,6 @@
     "_posts/dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",
     "_posts/dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
     "_posts/dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
-    "_posts/dopamine/2023-12-19-Dopamine Fasting & Detox.md",
-    "_posts/dopamine/2023-11-27-Dopamine Introduction.md",
-    "_posts/gardens/2024-01-10-Dan Koe Wednesday.md",
-    "_posts/gardens/2023-12-21-ObsidianRocks -Timeboxing.md",
-    "_site/categories/gardens/index.html",
-    "_posts/habits/2023-11-07-Pavlina - 8th Habit (Self-Expression).md",
-    "_posts/habits/2023-12-21-Brian Tracy - Business That Works.md",
-    "_posts/gardens/2024-02-18-Nathaniel Drew.md",
-    "_posts/gardens/2024-01-06-Campolargo-Steppenwolf.md",
-    "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
-    "_posts/gardens/2024-02-18-The Synthesizer Ideas by Dan Koe.md",
-    "_posts/gardens/2024-01-06-Campolargo-Snippets.md",
-    "_posts/gardens/2024-01-06-Campolargo-Annual Review.md",
-    "_posts/gardens/2023-12-21-Taking Notes (With Obsidian).md",
-    "_posts/gardens/2023-12-21-Ruairi Ideas (Attention Economy).md",
-    "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",

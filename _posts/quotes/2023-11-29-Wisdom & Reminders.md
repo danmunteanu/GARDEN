@@ -1,5 +1,14 @@
+---
+title: Wisdom & Reminders
+author: dan
+layout: post
+date: 2023-11-29 01:41 PM
+categories:
+  - Quotes
+tags:
+---
 💡 Timpul și ceasul nu există pentru creierul limbic (Viloldo)  
-
+	
 💡 Finding Satisfaction within the Condition (Abraham)  
 
 💡 **Freedom** is not being for or against an ideal, but **creating your own existence** from scratch.
@@ -30,4 +39,5 @@ all the barriers within yourself that you have built against it. (Rumi)
 💡 Burchard: Be OK with the struggle
 
 💡 Does your info time-travel well?
+
 
