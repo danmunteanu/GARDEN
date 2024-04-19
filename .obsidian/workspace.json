@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b25ff1b31abc32d8",
+        "id": "8bcc5c4acc0bff3d",
         "type": "tabs",
         "children": [
           {
-            "id": "ef95be6fa852aed1",
+            "id": "147a3bf9aa370a9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/gardens/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_posts/gardens/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_posts/gardens/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_posts/gardens/Untitled.md"
               }
             }
           }
@@ -146,10 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "546856dba3dcdcec",
+  "active": "147a3bf9aa370a9a",
   "lastOpenFiles": [
-    "posts/text-and-typography.md",
+    "_posts/gardens/Untitled.md",
+    "_posts/quotes/2023-11-29-Quotes.md",
+    "_posts/jekyll/2024-04-19-experiments.md",
+    "_posts/jekyll/2019-08-11-customize-the-favicon.md",
+    "_site/posts/experiments/index.html",
+    "_site/posts/experiments",
+    "_site/page8/index.html",
+    "_site/page8",
+    "_site/posts/mermaid-test/index.html",
+    "_site/posts/mermaid-test",
+    "_posts/jekyll/2019-08-08-text-and-typography.md",
+    "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
+    "_posts/skills/2023-12-21-Previous Roles.md",
+    "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
+    "_site/categories/default/index.html",
+    "_site/categories/default",
     "README.md",
+    "posts/text-and-typography.md",
     "_tabs/tags.md",
     "_tabs/categories.md",
     "_tabs/archives.md",
@@ -157,19 +173,8 @@
     "_site/about/index.html",
     "_site/about",
     "_site/tabs/about.md",
-    "_site/tabs",
-    "_posts/templates/2019-08-08-text-and-typography.md",
     "_site/posts/text-and-typography.md",
-    "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
-    "posts",
-    "_site/posts/Wisdom-&-Reminders/index.html",
-    "_site/posts/Wisdom-&-Reminders",
-    "_posts/quotes/2023-11-29-Quotes.md",
-    "_site/posts/Wisdom-&-Ideas-+-Remiders/index.html",
-    "_site/posts/Wisdom-&-Ideas-+-Remiders",
     "_posts/quotes/Wisdom & Ideas + Remiders.md",
-    "_site/posts/Quotes/index.html",
-    "_site/posts/Quotes",
     "_posts/gardens/2024-01-06-Campolargo-Annual Review.md",
     "_posts/skills/2023-12-21-Software I Love Using.md",
     "_posts/skills/2023-12-21-What Am I Doing Already.md",
@@ -179,11 +184,6 @@
     "_posts/money/2023-12-19-Un Mod Congruent De-a Face Bani.md",
     "_posts/money/2023-12-19-Positive Aspects Of Earning Money.md",
     "_posts/money/2023-12-19-Money Flows Socially.md",
-    "_posts/money/2023-12-18-Overcoming Scarcity (Pavlina).md",
-    "_posts/marketing/2023-11-08-To Get Paid (IDEAS).md",
-    "_posts/dopamine/2023-12-19-Low-Value High-Dopamine Activities.md",
-    "_posts/dopamine/2023-12-19-Intermittent Dopamine Fasting.md",
-    "_posts/dopamine/2023-12-19-High-Value, Low-Dopamine Activities.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",

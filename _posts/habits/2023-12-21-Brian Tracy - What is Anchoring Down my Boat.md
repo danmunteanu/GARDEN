@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Is Anchoring Down My Boat? (Brian Tracy Ideas)
+title: Brian Tracy  - What Is Anchoring Down My Boat?
 date: 2023-12-21 11:11:00 AM
 categories:
   - Habits

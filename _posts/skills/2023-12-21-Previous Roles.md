@@ -6,13 +6,12 @@ categories:
   - Skills
 ---
 ## Roles
+- Podcaster
 - YouTuber
-- DJ la Botez (x3)
-- Bedroom DJ - biggest satisfaction / **reward** (emotionally)
-- Web Developer
-- IT Support
-- Instructor Online (Udemy)
+- DJ
 - Software Developer
+- IT Support
+- Online Instructor
 - Technical Analyst
 - Blogger
 - Gamer
@@ -22,6 +21,4 @@ categories:
 - Corporatist
 
 ## Other Ideas
-- Streamer
-- Consultant
 - Writer 
