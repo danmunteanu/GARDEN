@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8bcc5c4acc0bff3d",
+        "id": "af52f6f551458237",
         "type": "tabs",
         "children": [
           {
-            "id": "147a3bf9aa370a9a",
+            "id": "a41fd245816a938a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/gardens/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 339.5
   },
   "right": {
     "id": "ed275f52da822c82",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/gardens/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/gardens/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/gardens/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "147a3bf9aa370a9a",
+  "active": "a41fd245816a938a",
   "lastOpenFiles": [
-    "_posts/gardens/Untitled.md",
+    "_posts/jekyll/2019-08-09-getting-started.md",
+    "_posts/jekyll/2019-08-08-text-and-typography.md",
+    "_site/categories/default/index.html",
+    "_site/categories/default",
+    "_site/posts/The-Price-For-Our-Desires/index.html",
+    "_site/posts/The-Price-For-Our-Desires",
+    "_posts/gardens/2024-04-19-The Price For Our Desires.md",
     "_posts/quotes/2023-11-29-Quotes.md",
     "_posts/jekyll/2024-04-19-experiments.md",
     "_posts/jekyll/2019-08-11-customize-the-favicon.md",
@@ -158,20 +156,15 @@
     "_site/page8",
     "_site/posts/mermaid-test/index.html",
     "_site/posts/mermaid-test",
-    "_posts/jekyll/2019-08-08-text-and-typography.md",
     "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
     "_posts/skills/2023-12-21-Previous Roles.md",
     "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
-    "_site/categories/default/index.html",
-    "_site/categories/default",
     "README.md",
     "posts/text-and-typography.md",
     "_tabs/tags.md",
     "_tabs/categories.md",
     "_tabs/archives.md",
     "_tabs/about.md",
-    "_site/about/index.html",
-    "_site/about",
     "_site/tabs/about.md",
     "_site/posts/text-and-typography.md",
     "_posts/quotes/Wisdom & Ideas + Remiders.md",
@@ -182,8 +175,6 @@
     "_posts/marketing/2023-12-19-Marian Rujoiu - Incredere Online.md",
     "_posts/money/2023-12-21-Extrase Din The Journal.md",
     "_posts/money/2023-12-19-Un Mod Congruent De-a Face Bani.md",
-    "_posts/money/2023-12-19-Positive Aspects Of Earning Money.md",
-    "_posts/money/2023-12-19-Money Flows Socially.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",
