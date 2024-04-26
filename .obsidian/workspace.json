@@ -11,8 +11,12 @@
             "id": "a41fd245816a938a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses Taken.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "right": {
     "id": "ed275f52da822c82",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses Taken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses Taken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses Taken.md"
+              }
             }
           }
         ]
@@ -140,6 +148,13 @@
   },
   "active": "a41fd245816a938a",
   "lastOpenFiles": [
+    "_site/posts/Courses-Taken/index.html",
+    "_site/posts/Courses-Taken",
+    "_site/Courses Taken.html",
+    "_posts/education/2024-04-26-Courses Taken.md",
+    "_posts/education",
+    "_posts/New folder",
+    "Courses Taken.md",
     "_posts/jekyll/2019-08-09-getting-started.md",
     "_posts/jekyll/2019-08-08-text-and-typography.md",
     "_site/categories/default/index.html",
@@ -152,10 +167,6 @@
     "_posts/jekyll/2019-08-11-customize-the-favicon.md",
     "_site/posts/experiments/index.html",
     "_site/posts/experiments",
-    "_site/page8/index.html",
-    "_site/page8",
-    "_site/posts/mermaid-test/index.html",
-    "_site/posts/mermaid-test",
     "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
     "_posts/skills/2023-12-21-Previous Roles.md",
     "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
@@ -173,8 +184,6 @@
     "_posts/skills/2023-12-21-What Am I Doing Already.md",
     "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
     "_posts/marketing/2023-12-19-Marian Rujoiu - Incredere Online.md",
-    "_posts/money/2023-12-21-Extrase Din The Journal.md",
-    "_posts/money/2023-12-19-Un Mod Congruent De-a Face Bani.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",
