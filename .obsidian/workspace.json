@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af52f6f551458237",
+        "id": "cc8358266e5d413d",
         "type": "tabs",
         "children": [
           {
-            "id": "a41fd245816a938a",
+            "id": "256ad86d51cf11b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
+                "file": "_tabs/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
+                "file": "_tabs/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
+                "file": "_tabs/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md"
+                "file": "_tabs/about.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41fd245816a938a",
+  "active": "256ad86d51cf11b2",
   "lastOpenFiles": [
-    "_posts/pathofexile/2023-11-02-Conclusions After (ToTA 3.22).md",
+    "_posts/tracker/2024-02-18-Week-07-Retrospective.md",
+    "_posts/education/2024-04-26-Courses Taken.md",
+    "_site/posts/Courses-Taken/index.html",
+    "_site/posts/Courses-Taken",
+    "_posts/gardens/2024-04-19-The Price For Our Desires.md",
     "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
+    "_posts/pathofexile/2023-11-02-Conclusions After (ToTA 3.22).md",
     "_posts/pathofexile/2023-11-02-Path Of Exile Notes.md",
     "_posts/pathofexile/2023-12-19-Stash Tab Prices.md",
     "_posts/pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
@@ -157,10 +162,7 @@
     "_posts/pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
     "_posts/pathofexile/2023-12-19-Beast To Feed.md",
     "_posts/pathofexile/2023-11-02-Zizaran Explains PoE.md",
-    "_site/posts/Courses-Taken/index.html",
-    "_site/posts/Courses-Taken",
     "_site/Courses Taken.html",
-    "_posts/education/2024-04-26-Courses Taken.md",
     "_posts/education",
     "_posts/New folder",
     "Courses Taken.md",
@@ -170,7 +172,6 @@
     "_site/categories/default",
     "_site/posts/The-Price-For-Our-Desires/index.html",
     "_site/posts/The-Price-For-Our-Desires",
-    "_posts/gardens/2024-04-19-The Price For Our Desires.md",
     "_posts/quotes/2023-11-29-Quotes.md",
     "_posts/jekyll/2024-04-19-experiments.md",
     "_posts/jekyll/2019-08-11-customize-the-favicon.md",
@@ -183,7 +184,6 @@
     "_tabs/tags.md",
     "_tabs/categories.md",
     "_tabs/archives.md",
-    "_tabs/about.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",

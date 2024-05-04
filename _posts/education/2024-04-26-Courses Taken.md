@@ -1,14 +1,12 @@
 ---
 title: Courses Taken
-author: Dan Munteanu
+author: dan
 layout: post
 date: 2024-04-26 04:12 PM
 categories:
-- default
-tags: 
-
+  - default
+tags:
 ---
-
 ## Steve Pavlina
 - [Deep Abundance Integration](https://stevepavlina.com/dai/)
 - [Submersion (Subjective Reality)](https://stevepavlina.com/sub/)

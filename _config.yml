@@ -16,7 +16,7 @@ timezone: Europe/Bucharest
 
 title: Dan's Voice # the main title
 
-tagline: Making Connections # it will display as the sub-title
+tagline: Public Digital Garden # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A subset of my public Obsidian-based private digital garden.
@@ -37,7 +37,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Dan Munteanu
-  email: garden@realityframeworks.com # change to your email address
+  email: notes@realityframeworks.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/DanMunteanuX # change to your twitter homepage
@@ -46,7 +46,8 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+# fill in to your verification string
+google_site_verification: X1cc4coHfmcMr2H3oOye0yYMp5JKZNViSMwHvtAodi0
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
