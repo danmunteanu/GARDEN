@@ -7,14 +7,6 @@ categories:
 tags: 
 layout: post
 ---
-## Bosses
-- [x] Eater (easy peasy)
-- [x] Exarch (fuckin' fire balls)
-- [x] Maven
-- [x] Shaper
-- [x] Elder
-- [x] Sirus
-
 ## Checks After Campaign Completion
 - [ ] Overcapping Resistances 75%+
 - [ ] Stun and Block
@@ -24,3 +16,11 @@ layout: post
 - [ ] Shock Immunity - Life Flask
 - [ ] Freeze Immunity - Life Flask
 - [ ] Corrupted Blood Immunity - Life Flask
+
+## Bosses
+- [x] Eater (easy peasy)
+- [x] Exarch (fuckin' fire balls)
+- [x] Maven
+- [x] Shaper
+- [x] Elder
+- [x] Sirus

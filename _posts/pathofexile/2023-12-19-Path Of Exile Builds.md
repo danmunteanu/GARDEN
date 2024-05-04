@@ -12,5 +12,4 @@ categories: PathOfExile
 - [Summon Raging Spirit Necromancer](https://pobb.in/QGF5BnPj2eLq)
 
 ## Exploding Arrow Champion
-- https://pobb.in/-FuxgC3WT2fO
-- Get Jewel From PoB
+- [Level 95 Explosive Arrow Totem Champion 3.21](https://pobb.in/-FuxgC3WT2fO)

@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Zizaran Explains Everything PoE
+title: Zizaran Explains PoE
 date: 2023-11-22 18:56:19
 categories:
   - PathOfExile
 ---
+
+**Source**: [Explaining EVERYTHING in Path of Exile - Explosive Arrow Champion](https://youtu.be/P0IbFhyFU64)
+
 ## Currency
 - Pick what's most Fun for you!
 - Where does your Build perform well?
 - Use Scarabs & Sextants
-
-## [Trials of Ascendancy](https://pathofexile.fandom.com/wiki/Trial_of_Ascendancy)
 
 ## Zizaran says:
 - More damage means Multiplication (x)
@@ -30,5 +31,3 @@ categories:
 - dot kills explosive arrow champion 
 - chaos res not important until yellow maps
 - Bestiary: convection forces freeze immunity
-
-**Source**: [Explaining EVERYTHING in Path of Exile - Explosive Arrow Champion](https://youtu.be/P0IbFhyFU64)

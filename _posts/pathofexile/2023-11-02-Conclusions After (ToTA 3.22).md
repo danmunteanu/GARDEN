@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Path Of Exile (After ToTA) Conclusions
+title: After ToTA 3.22 (Conclusions)
 date: 2023-11-22 18:56:19
-categories: PathOfExile
+categories:
+  - PathOfExile
 ---
 Path Of Exile Conclusions (After ToTA):
 
 430h In-Game =~ 18d (since 1 September)
 
-81 days since 1st September
-- I've spent 18 of those days in-game
+Since 1st September
+- I've spent 18/81 days in-game
 - I haven't accounted for the hours spent studing game-related information
 
 Advice for future:
@@ -24,11 +25,9 @@ What was totally worth it: (cost me 387h)
 
 Builds with most potential:
 - EA (Alt) - YyLushka
-Check in POB:
-https://poe.ninja/builds/ancestor/character/Mouxxx/DarrowBalli?i=1&search=class%3DElementalist%26skills%3DExplosive%2BArrow%26sort%3Ddps
-- Tornado Shot -> would have loved to get this to a higher level
-
-Would have loved to play some more YyLushka.
+	- [x] Would have loved to play some more YyLushka.
+- Tornado Shot -> 
+	- [x] would have loved to get this to a higher level
 
 What was definitely not worth it (30h)
 - Teggonuk 3h30m
@@ -38,4 +37,3 @@ What was definitely not worth it (30h)
 I should have followed a build guide faster. It was fun to figure it out on my own at the start, but after I got angrier and angrier, I should have tried a guide faster.
 
 Before September (previous league during summer), I played for 12d16h30m
-

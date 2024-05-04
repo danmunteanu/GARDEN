@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses Taken.md",
+                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 438.5
   },
   "right": {
     "id": "ed275f52da822c82",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses Taken.md",
+                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses Taken.md",
+                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses Taken.md"
+                "file": "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "a41fd245816a938a",
   "lastOpenFiles": [
+    "_posts/pathofexile/2023-11-02-Conclusions After (ToTA 3.22).md",
+    "_posts/pathofexile/2023-12-23-PoE Affliction 3.23 Strategies.md",
+    "_posts/pathofexile/2023-11-02-Path Of Exile Notes.md",
+    "_posts/pathofexile/2023-12-19-Stash Tab Prices.md",
+    "_posts/pathofexile/2023-12-19-PoE 3.23 Ailments Strategies.md",
+    "_posts/pathofexile/2023-12-19-Path Of Exile Builds.md",
+    "_posts/pathofexile/2023-12-13-Path Of Exile 3.23 Character Names Ailments.md",
+    "_posts/pathofexile/2023-12-19-Beast To Feed.md",
+    "_posts/pathofexile/2023-11-02-Zizaran Explains PoE.md",
     "_site/posts/Courses-Taken/index.html",
     "_site/posts/Courses-Taken",
     "_site/Courses Taken.html",
@@ -166,7 +175,6 @@
     "_posts/jekyll/2024-04-19-experiments.md",
     "_posts/jekyll/2019-08-11-customize-the-favicon.md",
     "_site/posts/experiments/index.html",
-    "_site/posts/experiments",
     "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
     "_posts/skills/2023-12-21-Previous Roles.md",
     "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
@@ -176,14 +184,6 @@
     "_tabs/categories.md",
     "_tabs/archives.md",
     "_tabs/about.md",
-    "_site/tabs/about.md",
-    "_site/posts/text-and-typography.md",
-    "_posts/quotes/Wisdom & Ideas + Remiders.md",
-    "_posts/gardens/2024-01-06-Campolargo-Annual Review.md",
-    "_posts/skills/2023-12-21-Software I Love Using.md",
-    "_posts/skills/2023-12-21-What Am I Doing Already.md",
-    "_posts/marketing/2023-11-08-Paul Olteanu - Cum Sa Ma Vand.md",
-    "_posts/marketing/2023-12-19-Marian Rujoiu - Incredere Online.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",

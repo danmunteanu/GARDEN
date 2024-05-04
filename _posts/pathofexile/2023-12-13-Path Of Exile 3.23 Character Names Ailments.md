@@ -1,5 +1,5 @@
 ---
-title: PoE 3.23 Name Ideas Ailments
+title: PoE 3.23 Character Name Ideas (Ailments)
 author: dan
 date: 2023-12-20 11:34 AM
 categories:
@@ -27,7 +27,6 @@ layout: post
 - Tornadinya
 - Nadia
 - Tornalla 
-- Nally
 
 ## DUELIST
 - Fulgerică
