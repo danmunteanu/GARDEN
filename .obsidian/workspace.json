@@ -11,8 +11,12 @@
             "id": "0b188c9fa380f28f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/quotes/2023-11-29-Wisdom & Reminders.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "0b188c9fa380f28f",
   "lastOpenFiles": [
+    "_posts/quotes/2023-11-29-Quotes.md",
+    "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
     "_tabs/about.md",
     "_site/_site.zip",
     "_posts/tracker/2024-02-18-Week-07-Retrospective.md",
@@ -166,12 +176,10 @@
     "_site/categories/default",
     "_site/posts/The-Price-For-Our-Desires/index.html",
     "_site/posts/The-Price-For-Our-Desires",
-    "_posts/quotes/2023-11-29-Quotes.md",
     "_posts/jekyll/2024-04-19-experiments.md",
     "_posts/jekyll/2019-08-11-customize-the-favicon.md",
     "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
     "_posts/skills/2023-12-21-Previous Roles.md",
-    "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
     "README.md",
     "posts/text-and-typography.md",
     "_tabs/tags.md",
