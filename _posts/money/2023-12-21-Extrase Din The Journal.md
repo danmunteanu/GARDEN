@@ -7,4 +7,6 @@ categories:
 ---
 Banii si puterea sunt cele doua forte care modeleaza lumea in care traim
 
-You do not possess wealth! Always understand that wealth isn’t something you possess, **but a flow** which has found a temporary parking place under your **stewardship**.
+You do not possess wealth! 
+
+Always understand that wealth isn’t something you possess, **but a flow** which has found a temporary parking place under your **stewardship**.
