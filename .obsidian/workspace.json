@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md",
+                "file": "_posts/education/2024-04-26-Courses Taken.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md",
+                "file": "_posts/education/2024-04-26-Courses Taken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md",
+                "file": "_posts/education/2024-04-26-Courses Taken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md"
+                "file": "_posts/education/2024-04-26-Courses Taken.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "0b188c9fa380f28f",
   "lastOpenFiles": [
+    "_posts/pathofexile/2024-03-27-PoE Scarabs..md",
     "_posts/money/2023-12-21-Extrase Din The Journal.md",
     "_posts/skills/2023-12-21-Skill Oriented Questions.md",
     "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
@@ -183,7 +184,6 @@
     "_posts/jekyll/2019-08-11-customize-the-favicon.md",
     "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
     "_posts/skills/2023-12-21-Previous Roles.md",
-    "README.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",
