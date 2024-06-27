@@ -1,12 +1,10 @@
 ---
-title: PoE Scarabs
+title: List Of Scarabs (Path Of Exile)
 author: dan
 layout: post
 date: 2024-05-27 06:57 PM
-categories: []
-
+categories:
 ---
-
 - Rogue Exile
 - Ultimatum
 - Ritual

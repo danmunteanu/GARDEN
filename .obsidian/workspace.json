@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/money/2023-12-21-Extrase Din The Journal.md",
+                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/money/2023-12-21-Extrase Din The Journal.md",
+                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/money/2023-12-21-Extrase Din The Journal.md",
+                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/money/2023-12-21-Extrase Din The Journal.md"
+                "file": "_posts/pathofexile/2024-03-27-PoE Scarabs..md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "0b188c9fa380f28f",
   "lastOpenFiles": [
+    "_posts/money/2023-12-21-Extrase Din The Journal.md",
     "_posts/skills/2023-12-21-Skill Oriented Questions.md",
     "_posts/quotes/2023-11-29-Wisdom & Reminders.md",
     "_posts/skills/2023-12-21-Software I Love Using.md",
@@ -183,7 +184,6 @@
     "_posts/habits/2023-12-21-Brian Tracy - What is Anchoring Down my Boat.md",
     "_posts/skills/2023-12-21-Previous Roles.md",
     "README.md",
-    "posts/text-and-typography.md",
     "_site/assets/img/favicons/android-chrome-192x192.png",
     "_site/assets/reality.png",
     "_site/assets/audition.png",
