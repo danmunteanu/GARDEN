@@ -1,9 +1,10 @@
 ---
-title: The Synthesizer (Dan Koe's Newsletter)
+title: Dan Koe - The Synthesizer (Ideas)
 author:
   - Dan Munteanu
 date: 2024-02-18
-categories: Gardens
+categories:
+  - Gardens
 ---
 **Source**: [Dan Koe's Newsletter](https://thedankoe.com/)
 ## Dan Koe's Synthesizer

@@ -14,13 +14,14 @@ tags:
 - being too comfortable
 - **running away** when **things get tough** or when **effort is required**
 - returning to the comfort zone
-- re-engaging in **old habits** / activities
+- staying too much in the comfort zone
+- engaging in **habits**, **activities** or **actions** that keep me in the comfort zone
 - **expecting things to feel good** and **refusing to do** them if they don't
 
 #### FOCUS
 - not *having a project to focus on* (or multiple projects)
 - being **spread too thin** - being focused on too many things at once
-- focusing on stuff that doesn't **create the traction** I want
+- focusing on stuff that doesn't **create the TRACTION** I want
 - **focusing on** the vibe of the city around me
 	- not on Friday-17-Nov
 - **consuming too much** knowledge and taking too little action based on that knowledge

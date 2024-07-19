@@ -24,7 +24,7 @@ how does one **recapture focus**?
 
 **focusing** on **something meaningful**
 - get better at Ableton / FL Studio
-- get **better** at any **creative pursuit**
+- get **better** at **any creative pursuit**
 
 **scheduling** an **hour** per **day**
 
