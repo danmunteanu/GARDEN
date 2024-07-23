@@ -1,3 +1,10 @@
+---
+title: Ce Sunt Capabil Sa Creez
+author: Dan Munteanu
+layout: post
+date: 2024-07-18 04:03 PM
+
+---
 #Skills
 Cursuri. 
 Programe PC - Software
@@ -20,3 +27,4 @@ Rezumate.
 WebPages. 
 Jocuri pe Calculator. Nivele. 
 Articole.
+
